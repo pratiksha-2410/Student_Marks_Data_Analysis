@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Category,Product,Quantity,Cost_Price,Selling_Price,Discount,Sales,Profit,Payment_Method,Customer_Type,Month,Year
+1001,2023-02-22,C002,Priya Singh,Pune,Electronics,Laptop,3,22714.24,35000,0.05,105000,31607.27,Credit Card,Returning,2,2023
+1002,2023-10-15,C001,Amit Sharma,Mumbai,Electronics,Laptop,1,22530.47,35000,0.0,35000,12469.53,Debit Card,Returning,10,2023
+1003,2023-03-23,C004,Neha Patel,Bangalore,Clothing,Jeans,5,983.46,1500,0.0,7500,2582.71,Cash on Delivery,Returning,3,2023
+1004,2023-02-22,C005,Rohit Mehta,Hyderabad,Electronics,Headphones,2,1187.16,1500,0.1,3000,325.67,Credit Card,Returning,2,2023
+1005,2023-08-24,C002,Priya Singh,Pune,Furniture,Sofa,3,10811.18,15000,0.0,45000,12566.47,Credit Card,Returning,8,2023
+1006,2023-10-23,C002,Priya Singh,Pune,Clothing,Jacket,3,2297.64,3000,0.1,9000,1207.07,Debit Card,New,10,2023
+1007,2023-02-21,C001,Amit Sharma,Mumbai,Furniture,Chair,3,1594.09,2000,0.05,6000,917.73,Cash on Delivery,Returning,2,2023
+1008,2023-12-10,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,2,10110.54,15000,0.05,30000,8278.91,UPI,New,12,2023
+1009,2023-08-25,C010,Pooja Desai,Surat,Electronics,Headphones,5,1118.74,1500,0.05,7500,1531.31,Cash on Delivery,Returning,8,2023
+1010,2023-04-28,C009,Vikram Joshi,Jaipur,Furniture,Chair,3,1537.14,2000,0.0,6000,1388.58,Credit Card,Returning,4,2023
+1011,2023-04-19,C007,Arjun Nair,Kolkata,Furniture,Table,1,3210.98,5000,0.1,5000,1289.02,Cash on Delivery,Returning,4,2023
+1012,2023-10-27,C008,Kavya Iyer,Ahmedabad,Electronics,Headphones,3,941.89,1500,0.1,4500,1224.33,Cash on Delivery,Returning,10,2023
+1013,2023-01-25,C006,Sneha Kapoor,Chennai,Furniture,Chair,2,1403.81,2000,0.0,4000,1192.38,Credit Card,New,1,2023
+1014,2023-11-02,C003,Rahul Verma,Delhi,Clothing,T-Shirt,5,428.89,700,0.15,3500,830.53,Cash on Delivery,Returning,11,2023
+1015,2023-11-25,C009,Vikram Joshi,Jaipur,Electronics,Laptop,1,25771.97,35000,0.1,35000,5728.03,UPI,New,11,2023
+1016,2023-09-14,C005,Rohit Mehta,Hyderabad,Clothing,T-Shirt,2,483.52,700,0.1,1400,292.96,Debit Card,New,9,2023
+1017,2023-03-24,C005,Rohit Mehta,Hyderabad,Clothing,Jacket,5,1919.35,3000,0.1,15000,3903.27,Credit Card,Returning,3,2023
+1018,2023-05-03,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,1,27503.69,35000,0.1,35000,3996.31,Credit Card,New,5,2023
+1019,2023-09-30,C010,Pooja Desai,Surat,Electronics,Mobile,1,8956.58,12000,0.0,12000,3043.42,Debit Card,New,9,2023
+1020,2023-04-19,C008,Kavya Iyer,Ahmedabad,Clothing,Jacket,2,1959.03,3000,0.15,6000,1181.93,Debit Card,Returning,4,2023
+1021,2023-03-03,C007,Arjun Nair,Kolkata,Furniture,Sofa,4,11698.84,15000,0.15,60000,4204.63,Debit Card,New,3,2023
+1022,2023-10-29,C002,Priya Singh,Pune,Furniture,Sofa,1,10764.93,15000,0.05,15000,3485.07,Debit Card,New,10,2023
+1023,2023-06-19,C002,Priya Singh,Pune,Electronics,Laptop,2,21471.8,35000,0.0,70000,27056.4,Credit Card,New,6,2023
+1024,2023-05-05,C005,Rohit Mehta,Hyderabad,Clothing,Jeans,2,1061.77,1500,0.15,3000,426.46,Cash on Delivery,Returning,5,2023
+1025,2023-08-05,C004,Neha Patel,Bangalore,Electronics,Mobile,1,8781.56,12000,0.1,12000,2018.44,Cash on Delivery,Returning,8,2023
+1026,2023-02-25,C001,Amit Sharma,Mumbai,Electronics,Mobile,1,8166.29,12000,0.1,12000,2633.71,Debit Card,New,2,2023
+1027,2023-05-23,C004,Neha Patel,Bangalore,Clothing,Jacket,4,1884.11,3000,0.05,12000,3863.56,Cash on Delivery,New,5,2023
+1028,2023-02-17,C002,Priya Singh,Pune,Clothing,Jeans,5,929.37,1500,0.0,7500,2853.14,Debit Card,New,2,2023
+1029,2023-01-31,C007,Arjun Nair,Kolkata,Clothing,Jeans,4,964.12,1500,0.15,6000,1243.5,Debit Card,Returning,1,2023
+1030,2023-05-27,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,3,549.71,700,0.15,2100,135.86,Cash on Delivery,Returning,5,2023
+1031,2023-10-24,C003,Rahul Verma,Delhi,Furniture,Chair,3,1287.08,2000,0.0,6000,2138.76,Credit Card,Returning,10,2023
+1032,2023-01-30,C001,Amit Sharma,Mumbai,Electronics,Laptop,5,24337.52,35000,0.05,175000,44562.4,Credit Card,New,1,2023
+1033,2023-10-24,C002,Priya Singh,Pune,Electronics,Mobile,2,8169.06,12000,0.05,24000,6461.88,Credit Card,New,10,2023
+1034,2023-12-09,C007,Arjun Nair,Kolkata,Clothing,Jacket,3,2360.82,3000,0.05,9000,1467.53,UPI,New,12,2023
+1035,2023-08-23,C005,Rohit Mehta,Hyderabad,Clothing,T-Shirt,2,514.04,700,0.1,1400,231.93,UPI,New,8,2023
+1036,2023-02-07,C001,Amit Sharma,Mumbai,Clothing,Jeans,5,1199.54,1500,0.0,7500,1502.32,Debit Card,Returning,2,2023
+1037,2023-05-26,C003,Rahul Verma,Delhi,Furniture,Sofa,1,11637.81,15000,0.1,15000,1862.19,Debit Card,Returning,5,2023
+1038,2023-12-08,C009,Vikram Joshi,Jaipur,Furniture,Table,5,3983.85,5000,0.0,25000,5080.73,UPI,New,12,2023
+1039,2023-05-20,C003,Rahul Verma,Delhi,Furniture,Table,1,3889.71,5000,0.05,5000,860.29,UPI,New,5,2023
+1040,2023-01-27,C006,Sneha Kapoor,Chennai,Furniture,Chair,3,1402.16,2000,0.1,6000,1193.51,Credit Card,Returning,1,2023
+1041,2023-11-23,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,1,23334.9,35000,0.05,35000,9915.1,UPI,New,11,2023
+1042,2023-02-08,C008,Kavya Iyer,Ahmedabad,Clothing,Jacket,4,2136.54,3000,0.0,12000,3453.82,Debit Card,New,2,2023
+1043,2023-06-07,C006,Sneha Kapoor,Chennai,Clothing,Jacket,2,2057.87,3000,0.0,6000,1884.26,UPI,New,6,2023
+1044,2023-10-14,C006,Sneha Kapoor,Chennai,Furniture,Chair,2,1466.77,2000,0.1,4000,666.45,Cash on Delivery,New,10,2023
+1045,2023-04-02,C004,Neha Patel,Bangalore,Electronics,Headphones,2,1164.42,1500,0.0,3000,671.15,UPI,Returning,4,2023
+1046,2023-07-15,C004,Neha Patel,Bangalore,Furniture,Table,2,3787.37,5000,0.0,10000,2425.25,Credit Card,Returning,7,2023
+1047,2023-04-25,C004,Neha Patel,Bangalore,Furniture,Chair,4,1339.86,2000,0.05,8000,2240.55,Credit Card,New,4,2023
+1048,2023-06-29,C007,Arjun Nair,Kolkata,Furniture,Sofa,3,11593.06,15000,0.1,45000,5720.82,Cash on Delivery,Returning,6,2023
+1049,2023-01-20,C001,Amit Sharma,Mumbai,Electronics,Mobile,3,7628.56,12000,0.1,36000,9514.31,Credit Card,Returning,1,2023
+1050,2023-07-17,C006,Sneha Kapoor,Chennai,Furniture,Sofa,4,10818.63,15000,0.0,60000,16725.49,Debit Card,Returning,7,2023
+1051,2023-07-06,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,1,492.79,700,0.05,700,172.21,Cash on Delivery,New,7,2023
+1052,2023-09-17,C006,Sneha Kapoor,Chennai,Furniture,Sofa,1,11159.26,15000,0.1,15000,2340.74,UPI,Returning,9,2023
+1053,2023-08-04,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,3,497.62,700,0.05,2100,502.15,Cash on Delivery,New,8,2023
+1054,2023-06-05,C010,Pooja Desai,Surat,Furniture,Table,4,3547.94,5000,0.0,20000,5808.25,UPI,New,6,2023
+1055,2023-09-19,C007,Arjun Nair,Kolkata,Furniture,Sofa,4,10325.36,15000,0.05,60000,15698.57,Cash on Delivery,New,9,2023
+1056,2023-02-17,C002,Priya Singh,Pune,Furniture,Table,5,3663.85,5000,0.1,25000,4180.73,Debit Card,Returning,2,2023
+1057,2023-09-01,C004,Neha Patel,Bangalore,Furniture,Chair,2,1209.77,2000,0.05,4000,1380.46,Credit Card,Returning,9,2023
+1058,2023-03-17,C007,Arjun Nair,Kolkata,Furniture,Chair,4,1397.75,2000,0.05,8000,2009.0,Credit Card,New,3,2023
+1059,2023-01-26,C007,Arjun Nair,Kolkata,Furniture,Chair,2,1521.64,2000,0.15,4000,356.71,Debit Card,New,1,2023
+1060,2023-08-15,C008,Kavya Iyer,Ahmedabad,Electronics,Headphones,4,1100.27,1500,0.1,6000,998.91,Cash on Delivery,Returning,8,2023
+1061,2023-11-23,C003,Rahul Verma,Delhi,Clothing,Jeans,4,977.76,1500,0.05,6000,1788.97,UPI,Returning,11,2023
+1062,2023-05-01,C004,Neha Patel,Bangalore,Furniture,Table,4,3077.48,5000,0.1,20000,5690.07,UPI,Returning,5,2023
+1063,2023-07-16,C006,Sneha Kapoor,Chennai,Clothing,Jacket,1,1883.02,3000,0.05,3000,966.98,Debit Card,New,7,2023
+1064,2023-08-01,C002,Priya Singh,Pune,Clothing,T-Shirt,4,466.32,700,0.15,2800,514.71,Credit Card,New,8,2023
+1065,2023-10-22,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,5,552.45,700,0.0,3500,737.76,Cash on Delivery,Returning,10,2023
+1066,2023-10-03,C001,Amit Sharma,Mumbai,Furniture,Sofa,3,11260.43,15000,0.15,45000,4468.72,Debit Card,Returning,10,2023
+1067,2023-06-22,C004,Neha Patel,Bangalore,Furniture,Table,4,3485.64,5000,0.15,20000,3057.43,Cash on Delivery,New,6,2023
+1068,2023-10-31,C008,Kavya Iyer,Ahmedabad,Electronics,Headphones,5,1060.24,1500,0.15,7500,1073.81,Credit Card,New,10,2023
+1069,2023-07-14,C007,Arjun Nair,Kolkata,Electronics,Headphones,4,954.52,1500,0.1,6000,1581.93,UPI,New,7,2023
+1070,2023-05-23,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,3,11283.69,15000,0.15,45000,4398.93,Cash on Delivery,Returning,5,2023
+1071,2023-06-29,C002,Priya Singh,Pune,Clothing,Jeans,1,1124.71,1500,0.0,1500,375.29,Debit Card,New,6,2023
+1072,2023-11-15,C001,Amit Sharma,Mumbai,Electronics,Laptop,2,22395.52,35000,0.0,70000,25208.95,Debit Card,New,11,2023
+1073,2023-08-27,C003,Rahul Verma,Delhi,Clothing,Jeans,1,1069.19,1500,0.05,1500,355.81,UPI,Returning,8,2023
+1074,2023-10-24,C003,Rahul Verma,Delhi,Electronics,Mobile,2,9515.33,12000,0.0,24000,4969.34,Credit Card,Returning,10,2023
+1075,2023-02-08,C010,Pooja Desai,Surat,Clothing,T-Shirt,4,551.81,700,0.05,2800,452.78,Debit Card,New,2,2023
+1076,2023-09-30,C005,Rohit Mehta,Hyderabad,Electronics,Mobile,5,9078.32,12000,0.1,60000,8608.38,Cash on Delivery,Returning,9,2023
+1077,2023-09-08,C002,Priya Singh,Pune,Clothing,Jacket,3,1807.59,3000,0.15,9000,2227.23,Credit Card,Returning,9,2023
+1078,2023-11-12,C006,Sneha Kapoor,Chennai,Clothing,Jeans,2,1030.65,1500,0.1,3000,638.71,Cash on Delivery,Returning,11,2023
+1079,2023-05-23,C007,Arjun Nair,Kolkata,Furniture,Table,3,3851.71,5000,0.0,15000,3444.86,Cash on Delivery,New,5,2023
+1080,2023-04-04,C008,Kavya Iyer,Ahmedabad,Clothing,T-Shirt,3,424.02,700,0.1,2100,617.95,Cash on Delivery,New,4,2023
+1081,2023-10-12,C006,Sneha Kapoor,Chennai,Furniture,Table,3,3279.66,5000,0.1,15000,3661.02,Credit Card,New,10,2023
+1082,2023-12-20,C002,Priya Singh,Pune,Furniture,Chair,4,1395.43,2000,0.05,8000,2018.28,Cash on Delivery,Returning,12,2023
+1083,2023-12-21,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,1,23059.65,35000,0.15,35000,6690.35,Debit Card,Returning,12,2023
+1084,2023-08-06,C010,Pooja Desai,Surat,Furniture,Sofa,4,10660.42,15000,0.1,60000,11358.32,UPI,Returning,8,2023
+1085,2023-04-09,C008,Kavya Iyer,Ahmedabad,Furniture,Table,3,3251.4,5000,0.0,15000,5245.79,UPI,New,4,2023
+1086,2023-05-22,C009,Vikram Joshi,Jaipur,Electronics,Headphones,2,964.92,1500,0.15,3000,620.17,UPI,New,5,2023
+1087,2023-01-08,C004,Neha Patel,Bangalore,Furniture,Table,2,3360.88,5000,0.1,10000,2278.24,Debit Card,Returning,1,2023
+1088,2023-11-23,C001,Amit Sharma,Mumbai,Electronics,Laptop,5,23044.96,35000,0.05,175000,51025.22,Cash on Delivery,New,11,2023
+1089,2023-04-05,C001,Amit Sharma,Mumbai,Furniture,Table,4,3478.71,5000,0.1,20000,4085.14,Credit Card,Returning,4,2023
+1090,2023-10-23,C008,Kavya Iyer,Ahmedabad,Electronics,Mobile,1,8161.7,12000,0.0,12000,3838.3,Credit Card,New,10,2023
+1091,2023-10-13,C003,Rahul Verma,Delhi,Furniture,Table,1,3993.92,5000,0.0,5000,1006.08,Cash on Delivery,New,10,2023
+1092,2023-10-29,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,4,547.19,700,0.1,2800,331.24,Cash on Delivery,Returning,10,2023
+1093,2023-04-17,C010,Pooja Desai,Surat,Electronics,Laptop,5,27720.76,35000,0.0,175000,36396.19,Debit Card,Returning,4,2023
+1094,2023-03-22,C002,Priya Singh,Pune,Electronics,Headphones,2,952.14,1500,0.0,3000,1095.71,Credit Card,Returning,3,2023
+1095,2023-12-28,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,3,909.79,1500,0.1,4500,1320.62,UPI,Returning,12,2023
+1096,2023-08-06,C002,Priya Singh,Pune,Furniture,Chair,3,1515.13,2000,0.05,6000,1154.61,Credit Card,New,8,2023
+1097,2023-06-07,C003,Rahul Verma,Delhi,Furniture,Table,2,3071.41,5000,0.05,10000,3357.18,UPI,Returning,6,2023
+1098,2023-09-14,C002,Priya Singh,Pune,Clothing,Jeans,3,1109.92,1500,0.1,4500,720.24,Cash on Delivery,Returning,9,2023
+1099,2023-01-14,C002,Priya Singh,Pune,Electronics,Laptop,4,26141.74,35000,0.1,140000,21433.05,Credit Card,New,1,2023
+1100,2023-08-29,C010,Pooja Desai,Surat,Electronics,Laptop,3,25033.73,35000,0.05,105000,24648.81,Cash on Delivery,Returning,8,2023
+1101,2023-06-28,C003,Rahul Verma,Delhi,Clothing,T-Shirt,4,555.67,700,0.15,2800,157.33,Cash on Delivery,Returning,6,2023
+1102,2023-05-28,C006,Sneha Kapoor,Chennai,Electronics,Mobile,2,7991.53,12000,0.15,24000,4416.94,Cash on Delivery,New,5,2023
+1103,2023-07-26,C008,Kavya Iyer,Ahmedabad,Electronics,Mobile,3,7805.76,12000,0.0,36000,12582.73,Credit Card,Returning,7,2023
+1104,2023-11-17,C007,Arjun Nair,Kolkata,Electronics,Laptop,2,24629.08,35000,0.15,70000,10241.85,Cash on Delivery,New,11,2023
+1105,2023-08-13,C004,Neha Patel,Bangalore,Furniture,Table,5,3131.01,5000,0.1,25000,6844.93,Cash on Delivery,New,8,2023
+1106,2023-10-10,C001,Amit Sharma,Mumbai,Furniture,Chair,2,1324.3,2000,0.0,4000,1351.4,Cash on Delivery,New,10,2023
+1107,2023-09-13,C004,Neha Patel,Bangalore,Electronics,Mobile,4,9472.95,12000,0.05,48000,7708.22,UPI,Returning,9,2023
+1108,2023-07-16,C007,Arjun Nair,Kolkata,Clothing,Jeans,4,973.12,1500,0.05,6000,1807.52,Debit Card,New,7,2023
+1109,2023-01-02,C002,Priya Singh,Pune,Furniture,Table,4,3339.88,5000,0.1,20000,4640.5,UPI,Returning,1,2023
+1110,2023-06-26,C010,Pooja Desai,Surat,Clothing,Jeans,2,1033.96,1500,0.15,3000,482.07,UPI,Returning,6,2023
+1111,2023-10-20,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,2,11942.32,15000,0.05,30000,4615.35,Cash on Delivery,New,10,2023
+1112,2023-07-17,C007,Arjun Nair,Kolkata,Electronics,Laptop,3,26212.94,35000,0.15,105000,10611.19,Debit Card,Returning,7,2023
+1113,2023-02-21,C001,Amit Sharma,Mumbai,Electronics,Headphones,5,1189.61,1500,0.1,7500,801.97,Cash on Delivery,New,2,2023
+1114,2023-12-02,C009,Vikram Joshi,Jaipur,Clothing,Jeans,1,1116.73,1500,0.15,1500,158.27,Debit Card,New,12,2023
+1115,2023-11-29,C008,Kavya Iyer,Ahmedabad,Furniture,Table,3,3623.26,5000,0.15,15000,1880.22,Credit Card,Returning,11,2023
+1116,2023-10-05,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,3,507.75,700,0.15,2100,261.74,Credit Card,New,10,2023
+1117,2023-02-20,C004,Neha Patel,Bangalore,Furniture,Table,2,3746.77,5000,0.15,10000,1006.47,Credit Card,Returning,2,2023
+1118,2023-05-31,C003,Rahul Verma,Delhi,Furniture,Table,1,3045.99,5000,0.0,5000,1954.01,UPI,Returning,5,2023
+1119,2023-03-29,C007,Arjun Nair,Kolkata,Electronics,Headphones,2,1059.35,1500,0.05,3000,731.3,Debit Card,New,3,2023
+1120,2023-10-26,C010,Pooja Desai,Surat,Clothing,T-Shirt,5,515.64,700,0.15,3500,396.81,Debit Card,New,10,2023
+1121,2023-08-27,C008,Kavya Iyer,Ahmedabad,Furniture,Table,4,3255.33,5000,0.0,20000,6978.69,UPI,New,8,2023
+1122,2023-11-24,C002,Priya Singh,Pune,Clothing,Jeans,3,1196.3,1500,0.1,4500,461.11,Cash on Delivery,Returning,11,2023
+1123,2023-02-24,C008,Kavya Iyer,Ahmedabad,Furniture,Table,2,3999.37,5000,0.15,10000,501.25,Debit Card,Returning,2,2023
+1124,2023-01-12,C010,Pooja Desai,Surat,Furniture,Sofa,5,9887.62,15000,0.1,75000,18061.91,Cash on Delivery,Returning,1,2023
+1125,2023-04-28,C001,Amit Sharma,Mumbai,Electronics,Laptop,5,26216.21,35000,0.1,175000,26418.97,UPI,New,4,2023
+1126,2023-06-08,C004,Neha Patel,Bangalore,Furniture,Table,2,3628.25,5000,0.0,10000,2743.5,Cash on Delivery,New,6,2023
+1127,2023-06-17,C010,Pooja Desai,Surat,Furniture,Sofa,2,9270.4,15000,0.1,30000,8459.2,Cash on Delivery,New,6,2023
+1128,2023-09-29,C004,Neha Patel,Bangalore,Electronics,Headphones,5,1162.94,1500,0.1,7500,935.31,UPI,New,9,2023
+1129,2023-02-28,C005,Rohit Mehta,Hyderabad,Clothing,Jeans,3,1123.97,1500,0.1,4500,678.1,Cash on Delivery,New,2,2023
+1130,2023-02-16,C003,Rahul Verma,Delhi,Furniture,Chair,4,1586.91,2000,0.1,8000,852.37,Cash on Delivery,New,2,2023
+1131,2023-10-27,C005,Rohit Mehta,Hyderabad,Clothing,Jacket,1,2072.87,3000,0.1,3000,627.13,Cash on Delivery,Returning,10,2023
+1132,2023-11-09,C002,Priya Singh,Pune,Furniture,Chair,4,1210.01,2000,0.1,8000,2359.96,Debit Card,New,11,2023
+1133,2023-01-20,C008,Kavya Iyer,Ahmedabad,Furniture,Table,4,3116.68,5000,0.0,20000,7533.3,UPI,Returning,1,2023
+1134,2023-07-18,C002,Priya Singh,Pune,Electronics,Mobile,2,9329.42,12000,0.05,24000,4141.16,Cash on Delivery,Returning,7,2023
+1135,2023-08-01,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,5,523.92,700,0.05,3500,705.41,Credit Card,Returning,8,2023
+1136,2023-04-22,C010,Pooja Desai,Surat,Clothing,T-Shirt,3,424.58,700,0.1,2100,616.26,Cash on Delivery,Returning,4,2023
+1137,2023-10-06,C004,Neha Patel,Bangalore,Furniture,Sofa,1,11942.78,15000,0.1,15000,1557.22,UPI,New,10,2023
+1138,2023-02-16,C007,Arjun Nair,Kolkata,Furniture,Table,2,3968.21,5000,0.15,10000,563.59,Debit Card,New,2,2023
+1139,2023-02-05,C001,Amit Sharma,Mumbai,Furniture,Sofa,2,11966.46,15000,0.05,30000,4567.07,Debit Card,New,2,2023
+1140,2023-05-22,C004,Neha Patel,Bangalore,Furniture,Sofa,2,11365.93,15000,0.0,30000,7268.14,Debit Card,New,5,2023
+1141,2023-03-09,C009,Vikram Joshi,Jaipur,Furniture,Table,2,3109.93,5000,0.0,10000,3780.15,Credit Card,Returning,3,2023
+1142,2023-03-06,C004,Neha Patel,Bangalore,Furniture,Sofa,1,9522.74,15000,0.0,15000,5477.26,Cash on Delivery,New,3,2023
+1143,2023-08-20,C002,Priya Singh,Pune,Clothing,Jeans,4,1133.41,1500,0.0,6000,1466.38,Debit Card,New,8,2023
+1144,2023-02-01,C009,Vikram Joshi,Jaipur,Furniture,Table,4,3643.34,5000,0.0,20000,5426.64,Cash on Delivery,Returning,2,2023
+1145,2023-02-07,C007,Arjun Nair,Kolkata,Electronics,Mobile,4,8909.76,12000,0.15,48000,5160.95,Credit Card,Returning,2,2023
+1146,2023-07-15,C010,Pooja Desai,Surat,Electronics,Headphones,1,937.86,1500,0.1,1500,412.14,UPI,Returning,7,2023
+1147,2023-12-02,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,1,531.03,700,0.0,700,168.97,Debit Card,Returning,12,2023
+1148,2023-07-24,C008,Kavya Iyer,Ahmedabad,Furniture,Chair,4,1335.57,2000,0.15,8000,1457.71,Cash on Delivery,New,7,2023
+1149,2023-03-20,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,3,513.12,700,0.1,2100,350.65,Cash on Delivery,New,3,2023
+1150,2023-03-08,C002,Priya Singh,Pune,Electronics,Mobile,1,8236.5,12000,0.1,12000,2563.5,Credit Card,Returning,3,2023
+1151,2023-01-27,C002,Priya Singh,Pune,Clothing,T-Shirt,3,542.31,700,0.15,2100,158.08,UPI,Returning,1,2023
+1152,2023-12-03,C006,Sneha Kapoor,Chennai,Electronics,Mobile,5,8417.79,12000,0.05,60000,14911.05,Cash on Delivery,New,12,2023
+1153,2023-10-21,C002,Priya Singh,Pune,Furniture,Sofa,5,10102.68,15000,0.1,75000,16986.58,Debit Card,Returning,10,2023
+1154,2023-01-15,C009,Vikram Joshi,Jaipur,Clothing,Jacket,1,2165.4,3000,0.1,3000,534.6,Debit Card,Returning,1,2023
+1155,2023-10-17,C005,Rohit Mehta,Hyderabad,Furniture,Sofa,3,9018.32,15000,0.05,45000,15695.05,Cash on Delivery,New,10,2023
+1156,2023-07-12,C003,Rahul Verma,Delhi,Electronics,Laptop,1,26222.78,35000,0.05,35000,7027.22,Cash on Delivery,Returning,7,2023
+1157,2023-10-18,C006,Sneha Kapoor,Chennai,Electronics,Headphones,3,993.49,1500,0.1,4500,1069.53,Credit Card,New,10,2023
+1158,2023-05-20,C003,Rahul Verma,Delhi,Electronics,Headphones,5,914.93,1500,0.0,7500,2925.36,Cash on Delivery,Returning,5,2023
+1159,2023-06-26,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,4,981.95,1500,0.0,6000,2072.2,Cash on Delivery,New,6,2023
+1160,2023-04-23,C005,Rohit Mehta,Hyderabad,Clothing,Jeans,5,1100.14,1500,0.0,7500,1999.3,Cash on Delivery,New,4,2023
+1161,2023-05-11,C001,Amit Sharma,Mumbai,Furniture,Chair,3,1578.13,2000,0.05,6000,965.61,UPI,Returning,5,2023
+1162,2023-03-08,C002,Priya Singh,Pune,Electronics,Laptop,4,26229.1,35000,0.05,140000,28083.6,Cash on Delivery,New,3,2023
+1163,2023-08-12,C009,Vikram Joshi,Jaipur,Clothing,Jacket,3,1843.25,3000,0.0,9000,3470.26,Credit Card,Returning,8,2023
+1164,2023-12-30,C002,Priya Singh,Pune,Furniture,Sofa,5,10287.85,15000,0.15,75000,12310.74,Cash on Delivery,Returning,12,2023
+1165,2023-11-13,C002,Priya Singh,Pune,Clothing,T-Shirt,1,555.27,700,0.05,700,109.73,Cash on Delivery,Returning,11,2023
+1166,2023-09-26,C002,Priya Singh,Pune,Clothing,T-Shirt,1,454.06,700,0.15,700,140.94,Credit Card,Returning,9,2023
+1167,2023-02-09,C005,Rohit Mehta,Hyderabad,Furniture,Sofa,2,9999.21,15000,0.05,30000,8501.59,Credit Card,New,2,2023
+1168,2023-05-12,C006,Sneha Kapoor,Chennai,Furniture,Sofa,2,9708.81,15000,0.05,30000,9082.39,Debit Card,New,5,2023
+1169,2023-08-26,C010,Pooja Desai,Surat,Electronics,Headphones,1,953.14,1500,0.15,1500,321.86,Cash on Delivery,Returning,8,2023
+1170,2023-11-20,C006,Sneha Kapoor,Chennai,Electronics,Headphones,4,920.49,1500,0.15,6000,1418.06,UPI,Returning,11,2023
+1171,2023-08-25,C010,Pooja Desai,Surat,Electronics,Laptop,3,24551.36,35000,0.1,105000,20845.93,Cash on Delivery,New,8,2023
+1172,2023-11-11,C001,Amit Sharma,Mumbai,Furniture,Sofa,3,9230.19,15000,0.0,45000,17309.42,Cash on Delivery,Returning,11,2023
+1173,2023-06-14,C010,Pooja Desai,Surat,Clothing,Jacket,1,2069.84,3000,0.05,3000,780.16,Cash on Delivery,New,6,2023
+1174,2024-01-01,C001,Amit Sharma,Mumbai,Clothing,Jeans,1,1143.29,1500,0.1,1500,206.71,Credit Card,New,1,2024
+1175,2023-07-06,C001,Amit Sharma,Mumbai,Furniture,Chair,4,1596.39,2000,0.05,8000,1214.42,UPI,Returning,7,2023
+1176,2023-11-20,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,3,515.05,700,0.0,2100,554.86,UPI,New,11,2023
+1177,2023-05-10,C006,Sneha Kapoor,Chennai,Electronics,Mobile,5,8828.11,12000,0.1,60000,9859.45,Debit Card,Returning,5,2023
+1178,2023-03-08,C002,Priya Singh,Pune,Electronics,Headphones,3,993.07,1500,0.15,4500,845.79,Credit Card,Returning,3,2023
+1179,2023-11-27,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,3,533.85,700,0.0,2100,498.46,Cash on Delivery,Returning,11,2023
+1180,2023-06-24,C001,Amit Sharma,Mumbai,Furniture,Sofa,3,9540.79,15000,0.05,45000,14127.63,Cash on Delivery,New,6,2023
+1181,2023-09-17,C004,Neha Patel,Bangalore,Electronics,Headphones,2,923.15,1500,0.0,3000,1153.7,Credit Card,Returning,9,2023
+1182,2023-04-03,C010,Pooja Desai,Surat,Electronics,Headphones,5,1013.02,1500,0.05,7500,2059.92,Debit Card,Returning,4,2023
+1183,2023-08-16,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,3,514.69,700,0.05,2100,450.93,UPI,Returning,8,2023
+1184,2023-04-10,C004,Neha Patel,Bangalore,Clothing,Jacket,2,1985.68,3000,0.15,6000,1128.64,UPI,Returning,4,2023
+1185,2023-03-24,C008,Kavya Iyer,Ahmedabad,Furniture,Table,4,3502.91,5000,0.15,20000,2988.37,Debit Card,New,3,2023
+1186,2023-12-31,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,4,27118.82,35000,0.0,140000,31524.73,Credit Card,Returning,12,2023
+1187,2023-08-12,C002,Priya Singh,Pune,Electronics,Headphones,3,1034.8,1500,0.05,4500,1170.61,Credit Card,New,8,2023
+1188,2023-09-15,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,1,10244.69,15000,0.15,15000,2505.31,UPI,New,9,2023
+1189,2023-02-20,C007,Arjun Nair,Kolkata,Electronics,Mobile,3,7738.89,12000,0.1,36000,9183.32,UPI,New,2,2023
+1190,2023-12-23,C003,Rahul Verma,Delhi,Electronics,Laptop,3,27421.77,35000,0.15,105000,6984.68,Debit Card,Returning,12,2023
+1191,2023-03-18,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,1,21133.03,35000,0.05,35000,12116.97,Cash on Delivery,New,3,2023
+1192,2023-08-03,C005,Rohit Mehta,Hyderabad,Furniture,Chair,3,1248.74,2000,0.05,6000,1953.78,Cash on Delivery,New,8,2023
+1193,2023-03-15,C002,Priya Singh,Pune,Clothing,Jeans,5,1060.82,1500,0.05,7500,1820.92,UPI,Returning,3,2023
+1194,2023-12-07,C001,Amit Sharma,Mumbai,Furniture,Sofa,2,10711.99,15000,0.05,30000,7076.02,Credit Card,Returning,12,2023
+1195,2023-07-19,C002,Priya Singh,Pune,Clothing,Jacket,5,2104.4,3000,0.0,15000,4478.02,Cash on Delivery,New,7,2023
+1196,2023-02-04,C007,Arjun Nair,Kolkata,Furniture,Sofa,3,11241.95,15000,0.1,45000,6774.15,UPI,New,2,2023
+1197,2023-11-26,C002,Priya Singh,Pune,Furniture,Sofa,2,9133.01,15000,0.1,30000,8733.99,Debit Card,Returning,11,2023
+1198,2023-01-19,C008,Kavya Iyer,Ahmedabad,Electronics,Headphones,2,918.93,1500,0.15,3000,712.14,UPI,New,1,2023
+1199,2023-09-21,C001,Amit Sharma,Mumbai,Furniture,Chair,1,1326.24,2000,0.1,2000,473.76,Cash on Delivery,Returning,9,2023
+1200,2023-12-02,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,2,23002.78,35000,0.0,70000,23994.45,UPI,Returning,12,2023
+1201,2023-07-17,C002,Priya Singh,Pune,Furniture,Sofa,4,11668.46,15000,0.15,60000,4326.16,UPI,New,7,2023
+1202,2023-02-12,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,3,1177.29,1500,0.1,4500,518.12,Cash on Delivery,New,2,2023
+1203,2023-02-10,C007,Arjun Nair,Kolkata,Electronics,Headphones,5,988.13,1500,0.0,7500,2559.35,UPI,Returning,2,2023
+1204,2023-12-20,C005,Rohit Mehta,Hyderabad,Clothing,Jeans,5,1115.3,1500,0.05,7500,1548.51,Cash on Delivery,Returning,12,2023
+1205,2023-05-21,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,3,25303.96,35000,0.15,105000,13338.12,Credit Card,New,5,2023
+1206,2023-01-16,C007,Arjun Nair,Kolkata,Furniture,Sofa,5,11403.29,15000,0.05,75000,14233.56,Debit Card,Returning,1,2023
+1207,2023-07-05,C001,Amit Sharma,Mumbai,Electronics,Headphones,1,970.8,1500,0.1,1500,379.2,Cash on Delivery,New,7,2023
+1208,2023-08-16,C010,Pooja Desai,Surat,Electronics,Headphones,4,1184.65,1500,0.1,6000,661.41,Credit Card,New,8,2023
+1209,2023-05-08,C009,Vikram Joshi,Jaipur,Furniture,Sofa,4,9943.16,15000,0.1,60000,14227.37,Credit Card,New,5,2023
+1210,2023-05-15,C003,Rahul Verma,Delhi,Clothing,Jeans,5,1016.1,1500,0.0,7500,2419.52,UPI,Returning,5,2023
+1211,2023-02-07,C004,Neha Patel,Bangalore,Furniture,Table,4,3200.18,5000,0.05,20000,6199.29,Cash on Delivery,New,2,2023
+1212,2023-10-09,C008,Kavya Iyer,Ahmedabad,Electronics,Mobile,3,8802.82,12000,0.0,36000,9591.55,UPI,Returning,10,2023
+1213,2023-04-13,C003,Rahul Verma,Delhi,Electronics,Headphones,3,1052.63,1500,0.0,4500,1342.12,Debit Card,New,4,2023
+1214,2023-08-28,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,3,24878.15,35000,0.1,105000,19865.55,Debit Card,New,8,2023
+1215,2023-09-27,C002,Priya Singh,Pune,Furniture,Table,4,3999.6,5000,0.15,20000,1001.62,Cash on Delivery,Returning,9,2023
+1216,2023-08-19,C010,Pooja Desai,Surat,Electronics,Mobile,2,9533.71,12000,0.0,24000,4932.58,Cash on Delivery,Returning,8,2023
+1217,2023-08-10,C003,Rahul Verma,Delhi,Clothing,Jacket,5,1909.18,3000,0.05,15000,4704.11,Credit Card,New,8,2023
+1218,2023-12-30,C009,Vikram Joshi,Jaipur,Electronics,Headphones,3,949.4,1500,0.1,4500,1201.81,Debit Card,Returning,12,2023
+1219,2023-03-06,C009,Vikram Joshi,Jaipur,Furniture,Table,1,3250.61,5000,0.1,5000,1249.39,UPI,New,3,2023
+1220,2023-03-29,C009,Vikram Joshi,Jaipur,Electronics,Headphones,5,1182.48,1500,0.05,7500,1212.59,UPI,New,3,2023
+1221,2023-11-30,C001,Amit Sharma,Mumbai,Electronics,Mobile,1,9476.51,12000,0.1,12000,1323.49,Debit Card,Returning,11,2023
+1222,2023-11-25,C010,Pooja Desai,Surat,Electronics,Laptop,4,27222.98,35000,0.1,140000,17108.09,UPI,Returning,11,2023
+1223,2023-03-22,C004,Neha Patel,Bangalore,Clothing,T-Shirt,3,483.5,700,0.0,2100,649.51,Cash on Delivery,Returning,3,2023
+1224,2023-06-10,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,2,1002.06,1500,0.05,3000,845.88,UPI,Returning,6,2023
+1225,2023-06-13,C007,Arjun Nair,Kolkata,Electronics,Headphones,3,1054.49,1500,0.0,4500,1336.52,Debit Card,Returning,6,2023
+1226,2023-01-26,C002,Priya Singh,Pune,Furniture,Table,4,3247.92,5000,0.0,20000,7008.32,UPI,Returning,1,2023
+1227,2023-06-17,C010,Pooja Desai,Surat,Clothing,T-Shirt,2,554.78,700,0.05,1400,220.45,UPI,New,6,2023
+1228,2023-09-12,C003,Rahul Verma,Delhi,Clothing,Jeans,5,1040.04,1500,0.1,7500,1549.78,Credit Card,New,9,2023
+1229,2023-10-26,C007,Arjun Nair,Kolkata,Clothing,Jacket,4,2380.01,3000,0.05,12000,1879.95,UPI,New,10,2023
+1230,2023-05-27,C001,Amit Sharma,Mumbai,Furniture,Table,4,3597.52,5000,0.15,20000,2609.92,Credit Card,New,5,2023
+1231,2023-07-07,C007,Arjun Nair,Kolkata,Electronics,Headphones,3,1118.25,1500,0.15,4500,470.24,Credit Card,Returning,7,2023
+1232,2023-02-07,C001,Amit Sharma,Mumbai,Clothing,Jacket,2,2017.51,3000,0.1,6000,1364.97,Cash on Delivery,Returning,2,2023
+1233,2023-03-07,C009,Vikram Joshi,Jaipur,Furniture,Table,5,3680.4,5000,0.0,25000,6598.01,Credit Card,Returning,3,2023
+1234,2023-04-12,C006,Sneha Kapoor,Chennai,Furniture,Sofa,5,11816.85,15000,0.05,75000,12165.77,Cash on Delivery,New,4,2023
+1235,2023-09-23,C001,Amit Sharma,Mumbai,Electronics,Laptop,2,25995.14,35000,0.15,70000,7509.71,Cash on Delivery,New,9,2023
+1236,2023-03-25,C010,Pooja Desai,Surat,Clothing,Jacket,2,1996.78,3000,0.1,6000,1406.44,Cash on Delivery,Returning,3,2023
+1237,2023-12-29,C010,Pooja Desai,Surat,Furniture,Sofa,5,11484.87,15000,0.15,75000,6325.66,UPI,Returning,12,2023
+1238,2023-10-26,C001,Amit Sharma,Mumbai,Furniture,Sofa,3,11021.42,15000,0.15,45000,5185.74,UPI,New,10,2023
+1239,2023-01-27,C010,Pooja Desai,Surat,Clothing,Jeans,3,1190.12,1500,0.05,4500,704.64,Cash on Delivery,New,1,2023
+1240,2023-01-17,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,2,535.03,700,0.05,1400,259.93,Credit Card,New,1,2023
+1241,2023-12-20,C001,Amit Sharma,Mumbai,Clothing,Jeans,3,1025.63,1500,0.15,4500,748.1,Debit Card,Returning,12,2023
+1242,2023-10-15,C009,Vikram Joshi,Jaipur,Clothing,Jeans,1,1111.73,1500,0.05,1500,313.27,UPI,Returning,10,2023
+1243,2023-09-30,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,3,553.94,700,0.15,2100,123.19,UPI,Returning,9,2023
+1244,2023-10-13,C005,Rohit Mehta,Hyderabad,Clothing,Jeans,2,1187.2,1500,0.1,3000,325.6,UPI,New,10,2023
+1245,2023-06-12,C005,Rohit Mehta,Hyderabad,Furniture,Table,2,3690.24,5000,0.15,10000,1119.52,Cash on Delivery,Returning,6,2023
+1246,2023-07-22,C009,Vikram Joshi,Jaipur,Furniture,Table,3,3121.87,5000,0.15,15000,3384.38,UPI,New,7,2023
+1247,2023-06-27,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,3,27687.2,35000,0.0,105000,21938.41,Cash on Delivery,Returning,6,2023
+1248,2023-10-15,C008,Kavya Iyer,Ahmedabad,Furniture,Chair,2,1531.18,2000,0.1,4000,537.64,UPI,New,10,2023
+1249,2023-11-23,C002,Priya Singh,Pune,Furniture,Chair,2,1220.31,2000,0.05,4000,1359.39,Debit Card,New,11,2023
+1250,2023-12-15,C002,Priya Singh,Pune,Clothing,T-Shirt,3,520.43,700,0.0,2100,538.71,Debit Card,New,12,2023
+1251,2023-09-02,C009,Vikram Joshi,Jaipur,Electronics,Headphones,4,1095.87,1500,0.15,6000,716.53,Debit Card,Returning,9,2023
+1252,2023-11-30,C006,Sneha Kapoor,Chennai,Furniture,Table,1,3907.94,5000,0.0,5000,1092.06,Debit Card,New,11,2023
+1253,2023-07-23,C003,Rahul Verma,Delhi,Clothing,T-Shirt,2,550.75,700,0.0,1400,298.5,Cash on Delivery,New,7,2023
+1254,2023-06-21,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,1,23088.75,35000,0.0,35000,11911.25,UPI,Returning,6,2023
+1255,2023-09-16,C009,Vikram Joshi,Jaipur,Clothing,Jacket,4,2333.56,3000,0.05,12000,2065.78,Cash on Delivery,Returning,9,2023
+1256,2023-11-28,C004,Neha Patel,Bangalore,Electronics,Mobile,3,7589.99,12000,0.15,36000,7830.04,UPI,New,11,2023
+1257,2023-03-31,C001,Amit Sharma,Mumbai,Furniture,Sofa,3,10703.34,15000,0.05,45000,10639.97,Cash on Delivery,Returning,3,2023
+1258,2023-04-05,C009,Vikram Joshi,Jaipur,Furniture,Sofa,1,10202.5,15000,0.0,15000,4797.5,Debit Card,Returning,4,2023
+1259,2023-08-17,C006,Sneha Kapoor,Chennai,Furniture,Chair,1,1304.31,2000,0.05,2000,595.69,UPI,Returning,8,2023
+1260,2023-02-01,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,3,25575.78,35000,0.05,105000,23022.65,Credit Card,Returning,2,2023
+1261,2023-12-20,C005,Rohit Mehta,Hyderabad,Electronics,Headphones,4,1105.82,1500,0.1,6000,976.71,Credit Card,Returning,12,2023
+1262,2023-03-20,C006,Sneha Kapoor,Chennai,Furniture,Chair,2,1582.94,2000,0.15,4000,234.11,Cash on Delivery,Returning,3,2023
+1263,2023-05-07,C007,Arjun Nair,Kolkata,Clothing,Jacket,4,2254.41,3000,0.05,12000,2382.36,Credit Card,Returning,5,2023
+1264,2023-02-01,C009,Vikram Joshi,Jaipur,Furniture,Sofa,1,11751.73,15000,0.0,15000,3248.27,Debit Card,New,2,2023
+1265,2023-10-26,C003,Rahul Verma,Delhi,Furniture,Sofa,5,10325.52,15000,0.05,75000,19622.39,Cash on Delivery,New,10,2023
+1266,2023-08-22,C009,Vikram Joshi,Jaipur,Clothing,Jeans,1,1036.03,1500,0.15,1500,238.97,Credit Card,Returning,8,2023
+1267,2023-04-22,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,4,22781.2,35000,0.0,140000,48875.2,Credit Card,New,4,2023
+1268,2023-02-05,C007,Arjun Nair,Kolkata,Furniture,Sofa,1,10623.49,15000,0.0,15000,4376.51,Cash on Delivery,New,2,2023
+1269,2023-07-11,C005,Rohit Mehta,Hyderabad,Clothing,T-Shirt,2,527.66,700,0.15,1400,134.69,Cash on Delivery,Returning,7,2023
+1270,2023-12-01,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,1,515.58,700,0.05,700,149.42,UPI,New,12,2023
+1271,2023-01-02,C003,Rahul Verma,Delhi,Clothing,Jacket,4,2117.31,3000,0.05,12000,2930.78,Credit Card,Returning,1,2023
+1272,2023-05-07,C008,Kavya Iyer,Ahmedabad,Clothing,Jacket,4,2119.16,3000,0.05,12000,2923.36,Cash on Delivery,Returning,5,2023
+1273,2023-01-17,C003,Rahul Verma,Delhi,Furniture,Table,2,3937.41,5000,0.0,10000,2125.18,Cash on Delivery,New,1,2023
+1274,2023-08-17,C004,Neha Patel,Bangalore,Furniture,Chair,1,1240.36,2000,0.0,2000,759.64,Credit Card,New,8,2023
+1275,2023-01-29,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,4,452.81,700,0.05,2800,848.77,Debit Card,Returning,1,2023
+1276,2023-05-02,C004,Neha Patel,Bangalore,Furniture,Sofa,5,10793.75,15000,0.1,75000,13531.23,UPI,New,5,2023
+1277,2023-10-13,C009,Vikram Joshi,Jaipur,Furniture,Chair,4,1320.2,2000,0.0,8000,2719.2,Debit Card,Returning,10,2023
+1278,2023-09-26,C009,Vikram Joshi,Jaipur,Clothing,Jeans,1,1191.69,1500,0.15,1500,83.31,UPI,Returning,9,2023
+1279,2023-05-04,C007,Arjun Nair,Kolkata,Electronics,Headphones,3,1012.94,1500,0.15,4500,786.19,Debit Card,Returning,5,2023
+1280,2023-10-13,C003,Rahul Verma,Delhi,Clothing,Jeans,1,1068.72,1500,0.15,1500,206.28,Debit Card,Returning,10,2023
+1281,2023-08-19,C004,Neha Patel,Bangalore,Furniture,Table,2,3330.26,5000,0.0,10000,3339.47,UPI,New,8,2023
+1282,2023-02-07,C009,Vikram Joshi,Jaipur,Furniture,Chair,1,1307.38,2000,0.0,2000,692.62,Debit Card,New,2,2023
+1283,2023-04-19,C008,Kavya Iyer,Ahmedabad,Furniture,Chair,3,1321.28,2000,0.0,6000,2036.17,Debit Card,New,4,2023
+1284,2023-05-03,C008,Kavya Iyer,Ahmedabad,Furniture,Chair,5,1481.51,2000,0.15,10000,1092.46,UPI,Returning,5,2023
+1285,2023-05-14,C007,Arjun Nair,Kolkata,Clothing,Jeans,5,1094.62,1500,0.1,7500,1276.92,UPI,Returning,5,2023
+1286,2023-04-15,C008,Kavya Iyer,Ahmedabad,Electronics,Mobile,4,9027.91,12000,0.1,48000,7088.36,UPI,Returning,4,2023
+1287,2023-01-09,C007,Arjun Nair,Kolkata,Electronics,Laptop,5,27048.59,35000,0.05,175000,31007.03,UPI,Returning,1,2023
+1288,2023-10-19,C005,Rohit Mehta,Hyderabad,Electronics,Headphones,2,998.96,1500,0.15,3000,552.08,Debit Card,Returning,10,2023
+1289,2023-11-25,C009,Vikram Joshi,Jaipur,Furniture,Sofa,3,11290.08,15000,0.15,45000,4379.75,Cash on Delivery,Returning,11,2023
+1290,2023-04-05,C003,Rahul Verma,Delhi,Furniture,Sofa,2,9419.88,15000,0.15,30000,6660.25,Credit Card,New,4,2023
+1291,2023-02-04,C002,Priya Singh,Pune,Electronics,Laptop,1,23886.75,35000,0.05,35000,9363.25,Debit Card,New,2,2023
+1292,2023-12-04,C004,Neha Patel,Bangalore,Clothing,Jacket,4,2023.92,3000,0.15,12000,2104.32,Cash on Delivery,New,12,2023
+1293,2023-09-29,C001,Amit Sharma,Mumbai,Clothing,Jacket,5,2046.8,3000,0.0,15000,4765.98,UPI,Returning,9,2023
+1294,2023-02-24,C001,Amit Sharma,Mumbai,Clothing,Jacket,4,2283.7,3000,0.05,12000,2265.2,Credit Card,New,2,2023
+1295,2023-05-17,C004,Neha Patel,Bangalore,Furniture,Chair,5,1410.58,2000,0.1,10000,1947.09,Cash on Delivery,New,5,2023
+1296,2023-06-03,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,4,499.1,700,0.05,2800,663.6,Credit Card,New,6,2023
+1297,2023-01-29,C002,Priya Singh,Pune,Clothing,T-Shirt,4,472.8,700,0.15,2800,488.79,Credit Card,New,1,2023
+1298,2023-10-17,C002,Priya Singh,Pune,Clothing,Jeans,4,1093.47,1500,0.1,6000,1026.11,Credit Card,New,10,2023
+1299,2023-02-08,C004,Neha Patel,Bangalore,Furniture,Chair,5,1390.2,2000,0.0,10000,3049.0,UPI,New,2,2023
+1300,2023-12-31,C003,Rahul Verma,Delhi,Furniture,Sofa,1,11884.41,15000,0.05,15000,2365.59,Cash on Delivery,New,12,2023
+1301,2023-12-13,C005,Rohit Mehta,Hyderabad,Electronics,Headphones,5,972.14,1500,0.15,7500,1514.29,UPI,Returning,12,2023
+1302,2023-01-28,C003,Rahul Verma,Delhi,Electronics,Mobile,5,8989.1,12000,0.1,60000,9054.52,Credit Card,Returning,1,2023
+1303,2023-06-17,C004,Neha Patel,Bangalore,Electronics,Mobile,3,8652.4,12000,0.15,36000,4642.79,Credit Card,Returning,6,2023
+1304,2023-08-10,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,2,1006.74,1500,0.15,3000,536.51,Debit Card,Returning,8,2023
+1305,2023-05-18,C002,Priya Singh,Pune,Furniture,Table,2,3713.11,5000,0.0,10000,2573.78,Debit Card,Returning,5,2023
+1306,2023-01-03,C003,Rahul Verma,Delhi,Clothing,T-Shirt,3,470.5,700,0.0,2100,688.51,UPI,Returning,1,2023
+1307,2023-08-09,C006,Sneha Kapoor,Chennai,Furniture,Table,1,3132.51,5000,0.05,5000,1617.49,Cash on Delivery,Returning,8,2023
+1308,2023-11-02,C002,Priya Singh,Pune,Electronics,Laptop,1,23477.4,35000,0.0,35000,11522.6,UPI,Returning,11,2023
+1309,2023-10-14,C001,Amit Sharma,Mumbai,Furniture,Table,4,3387.8,5000,0.0,20000,6448.8,Debit Card,New,10,2023
+1310,2023-09-10,C007,Arjun Nair,Kolkata,Electronics,Headphones,2,980.68,1500,0.1,3000,738.65,Debit Card,New,9,2023
+1311,2023-02-09,C003,Rahul Verma,Delhi,Clothing,T-Shirt,3,478.95,700,0.15,2100,348.14,UPI,Returning,2,2023
+1312,2023-02-24,C004,Neha Patel,Bangalore,Clothing,Jeans,5,1085.0,1500,0.15,7500,950.0,Debit Card,Returning,2,2023
+1313,2023-06-18,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,3,537.83,700,0.15,2100,171.52,Cash on Delivery,Returning,6,2023
+1314,2023-09-03,C007,Arjun Nair,Kolkata,Electronics,Headphones,3,996.2,1500,0.05,4500,1286.4,UPI,New,9,2023
+1315,2023-10-22,C007,Arjun Nair,Kolkata,Furniture,Sofa,3,11204.62,15000,0.15,45000,4636.13,Debit Card,Returning,10,2023
+1316,2023-10-31,C007,Arjun Nair,Kolkata,Furniture,Table,4,3365.02,5000,0.05,20000,5539.94,Debit Card,New,10,2023
+1317,2023-07-29,C008,Kavya Iyer,Ahmedabad,Furniture,Chair,4,1519.07,2000,0.0,8000,1923.7,Cash on Delivery,New,7,2023
+1318,2023-07-13,C005,Rohit Mehta,Hyderabad,Furniture,Chair,3,1463.47,2000,0.15,6000,709.6,Credit Card,Returning,7,2023
+1319,2023-10-06,C010,Pooja Desai,Surat,Clothing,Jeans,5,1020.24,1500,0.15,7500,1273.79,Credit Card,Returning,10,2023
+1320,2023-03-27,C009,Vikram Joshi,Jaipur,Electronics,Mobile,1,9045.49,12000,0.1,12000,1754.51,Credit Card,Returning,3,2023
+1321,2023-04-24,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,1,421.48,700,0.1,700,208.52,Debit Card,Returning,4,2023
+1322,2023-06-26,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,4,528.13,700,0.05,2800,547.49,Credit Card,Returning,6,2023
+1323,2023-03-01,C002,Priya Singh,Pune,Furniture,Table,4,3920.55,5000,0.0,20000,4317.81,Debit Card,Returning,3,2023
+1324,2023-06-28,C005,Rohit Mehta,Hyderabad,Furniture,Sofa,4,11352.81,15000,0.15,60000,5588.76,Cash on Delivery,New,6,2023
+1325,2023-12-30,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,3,920.15,1500,0.0,4500,1739.54,Credit Card,New,12,2023
+1326,2023-09-22,C006,Sneha Kapoor,Chennai,Electronics,Mobile,2,9431.81,12000,0.05,24000,3936.37,Debit Card,New,9,2023
+1327,2023-07-27,C006,Sneha Kapoor,Chennai,Clothing,Jacket,4,2375.08,3000,0.05,12000,1899.69,Debit Card,New,7,2023
+1328,2023-08-19,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,1,523.23,700,0.05,700,141.77,Cash on Delivery,Returning,8,2023
+1329,2023-10-23,C001,Amit Sharma,Mumbai,Furniture,Chair,2,1311.34,2000,0.0,4000,1377.32,Credit Card,New,10,2023
+1330,2023-12-10,C006,Sneha Kapoor,Chennai,Furniture,Sofa,2,10372.65,15000,0.1,30000,6254.7,Cash on Delivery,Returning,12,2023
+1331,2023-06-28,C010,Pooja Desai,Surat,Clothing,T-Shirt,5,474.96,700,0.0,3500,1125.22,UPI,Returning,6,2023
+1332,2023-12-11,C010,Pooja Desai,Surat,Electronics,Headphones,3,1175.6,1500,0.0,4500,973.19,Debit Card,Returning,12,2023
+1333,2023-12-22,C002,Priya Singh,Pune,Furniture,Chair,3,1246.78,2000,0.1,6000,1659.66,Debit Card,Returning,12,2023
+1334,2023-09-07,C007,Arjun Nair,Kolkata,Electronics,Headphones,5,1015.11,1500,0.05,7500,2049.44,Debit Card,New,9,2023
+1335,2023-11-14,C008,Kavya Iyer,Ahmedabad,Furniture,Table,2,3187.1,5000,0.15,10000,2125.8,Credit Card,Returning,11,2023
+1336,2023-10-15,C001,Amit Sharma,Mumbai,Clothing,Jeans,2,958.54,1500,0.15,3000,632.92,Cash on Delivery,Returning,10,2023
+1337,2023-10-17,C008,Kavya Iyer,Ahmedabad,Clothing,T-Shirt,4,488.42,700,0.0,2800,846.33,Credit Card,New,10,2023
+1338,2023-03-28,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,3,22573.9,35000,0.1,105000,26778.29,Cash on Delivery,Returning,3,2023
+1339,2023-10-06,C009,Vikram Joshi,Jaipur,Clothing,Jacket,1,2143.63,3000,0.1,3000,556.37,UPI,New,10,2023
+1340,2023-12-01,C008,Kavya Iyer,Ahmedabad,Clothing,Jacket,2,2393.87,3000,0.0,6000,1212.27,Debit Card,Returning,12,2023
+1341,2023-08-13,C001,Amit Sharma,Mumbai,Clothing,Jeans,3,1004.57,1500,0.0,4500,1486.28,Credit Card,New,8,2023
+1342,2023-11-12,C004,Neha Patel,Bangalore,Furniture,Sofa,5,10898.31,15000,0.05,75000,16758.44,Debit Card,New,11,2023
+1343,2023-11-02,C004,Neha Patel,Bangalore,Electronics,Laptop,5,23455.71,35000,0.1,175000,40221.46,Debit Card,Returning,11,2023
+1344,2023-03-11,C005,Rohit Mehta,Hyderabad,Furniture,Table,5,3267.34,5000,0.0,25000,8663.28,Cash on Delivery,New,3,2023
+1345,2023-05-07,C005,Rohit Mehta,Hyderabad,Electronics,Headphones,2,974.9,1500,0.1,3000,750.19,Cash on Delivery,Returning,5,2023
+1346,2023-11-21,C003,Rahul Verma,Delhi,Furniture,Table,4,3375.17,5000,0.0,20000,6499.31,Credit Card,Returning,11,2023
+1347,2023-06-17,C009,Vikram Joshi,Jaipur,Furniture,Table,3,3454.7,5000,0.15,15000,2385.91,Credit Card,New,6,2023
+1348,2023-04-22,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,1,11387.03,15000,0.15,15000,1362.97,Cash on Delivery,New,4,2023
+1349,2023-10-08,C008,Kavya Iyer,Ahmedabad,Furniture,Table,3,3828.34,5000,0.1,15000,2014.97,Debit Card,Returning,10,2023
+1350,2023-01-09,C006,Sneha Kapoor,Chennai,Electronics,Laptop,1,21697.02,35000,0.15,35000,8052.98,Credit Card,New,1,2023
+1351,2023-04-14,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,1,1197.55,1500,0.15,1500,77.45,Debit Card,Returning,4,2023
+1352,2023-02-12,C003,Rahul Verma,Delhi,Furniture,Table,1,3654.59,5000,0.1,5000,845.41,UPI,New,2,2023
+1353,2023-08-08,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,3,521.64,700,0.05,2100,430.08,Credit Card,New,8,2023
+1354,2023-09-23,C001,Amit Sharma,Mumbai,Furniture,Chair,4,1231.18,2000,0.05,8000,2675.3,Cash on Delivery,New,9,2023
+1355,2023-12-22,C001,Amit Sharma,Mumbai,Furniture,Sofa,1,11964.46,15000,0.15,15000,785.54,Debit Card,Returning,12,2023
+1356,2023-02-22,C002,Priya Singh,Pune,Furniture,Chair,4,1235.73,2000,0.0,8000,3057.07,UPI,Returning,2,2023
+1357,2023-11-25,C005,Rohit Mehta,Hyderabad,Electronics,Headphones,4,1132.04,1500,0.05,6000,1171.85,Debit Card,New,11,2023
+1358,2023-06-29,C009,Vikram Joshi,Jaipur,Electronics,Laptop,5,25550.14,35000,0.15,175000,20999.29,Debit Card,New,6,2023
+1359,2023-03-13,C007,Arjun Nair,Kolkata,Clothing,Jeans,2,926.01,1500,0.0,3000,1147.99,Credit Card,Returning,3,2023
+1360,2023-05-22,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,3,530.75,700,0.05,2100,402.75,Credit Card,New,5,2023
+1361,2023-04-16,C009,Vikram Joshi,Jaipur,Furniture,Table,1,3847.89,5000,0.1,5000,652.11,Debit Card,Returning,4,2023
+1362,2023-05-04,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,2,24464.21,35000,0.0,70000,21071.57,Cash on Delivery,New,5,2023
+1363,2023-07-18,C009,Vikram Joshi,Jaipur,Electronics,Laptop,3,27537.47,35000,0.05,105000,17137.59,Cash on Delivery,Returning,7,2023
+1364,2023-01-09,C009,Vikram Joshi,Jaipur,Electronics,Headphones,4,1186.34,1500,0.0,6000,1254.66,Credit Card,New,1,2023
+1365,2023-09-17,C005,Rohit Mehta,Hyderabad,Furniture,Chair,1,1569.03,2000,0.15,2000,130.97,UPI,Returning,9,2023
+1366,2023-05-23,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,1,509.68,700,0.05,700,155.32,Credit Card,Returning,5,2023
+1367,2023-10-02,C002,Priya Singh,Pune,Clothing,Jacket,2,2384.59,3000,0.05,6000,930.82,UPI,Returning,10,2023
+1368,2023-01-30,C010,Pooja Desai,Surat,Electronics,Mobile,3,8876.82,12000,0.05,36000,7569.53,Debit Card,New,1,2023
+1369,2023-06-08,C007,Arjun Nair,Kolkata,Electronics,Mobile,4,8669.51,12000,0.0,48000,13321.95,Debit Card,New,6,2023
+1370,2023-09-25,C001,Amit Sharma,Mumbai,Electronics,Headphones,1,949.15,1500,0.1,1500,400.85,UPI,New,9,2023
+1371,2023-01-16,C006,Sneha Kapoor,Chennai,Electronics,Headphones,3,1119.88,1500,0.0,4500,1140.36,UPI,Returning,1,2023
+1372,2023-09-12,C005,Rohit Mehta,Hyderabad,Clothing,Jacket,1,1957.77,3000,0.0,3000,1042.23,Cash on Delivery,Returning,9,2023
+1373,2023-05-11,C001,Amit Sharma,Mumbai,Clothing,Jeans,5,950.06,1500,0.05,7500,2374.68,Credit Card,New,5,2023
+1374,2023-05-06,C004,Neha Patel,Bangalore,Clothing,Jacket,1,1826.42,3000,0.0,3000,1173.58,Credit Card,Returning,5,2023
+1375,2023-10-11,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,2,445.05,700,0.0,1400,509.89,Cash on Delivery,New,10,2023
+1376,2023-05-19,C006,Sneha Kapoor,Chennai,Furniture,Chair,4,1566.34,2000,0.1,8000,934.63,Credit Card,Returning,5,2023
+1377,2023-07-25,C002,Priya Singh,Pune,Clothing,Jacket,1,1907.61,3000,0.0,3000,1092.39,Credit Card,Returning,7,2023
+1378,2023-01-05,C005,Rohit Mehta,Hyderabad,Furniture,Table,3,3086.39,5000,0.15,15000,3490.84,UPI,New,1,2023
+1379,2023-10-30,C005,Rohit Mehta,Hyderabad,Furniture,Table,5,3242.58,5000,0.1,25000,6287.08,Cash on Delivery,New,10,2023
+1380,2023-01-13,C009,Vikram Joshi,Jaipur,Furniture,Chair,2,1202.55,2000,0.15,4000,994.9,Debit Card,Returning,1,2023
+1381,2023-06-07,C001,Amit Sharma,Mumbai,Furniture,Sofa,1,11276.79,15000,0.15,15000,1473.21,Credit Card,New,6,2023
+1382,2023-03-14,C009,Vikram Joshi,Jaipur,Furniture,Chair,4,1396.81,2000,0.0,8000,2412.75,UPI,New,3,2023
+1383,2023-08-23,C001,Amit Sharma,Mumbai,Furniture,Chair,5,1365.22,2000,0.1,10000,2173.89,Credit Card,New,8,2023
+1384,2023-08-11,C009,Vikram Joshi,Jaipur,Electronics,Headphones,4,922.45,1500,0.0,6000,2310.2,Debit Card,New,8,2023
+1385,2023-12-25,C005,Rohit Mehta,Hyderabad,Furniture,Table,3,3926.04,5000,0.15,15000,971.87,UPI,Returning,12,2023
+1386,2023-03-11,C008,Kavya Iyer,Ahmedabad,Furniture,Table,2,3074.69,5000,0.05,10000,3350.63,Credit Card,New,3,2023
+1387,2023-03-03,C002,Priya Singh,Pune,Electronics,Headphones,4,1039.82,1500,0.15,6000,940.73,UPI,New,3,2023
+1388,2023-02-16,C008,Kavya Iyer,Ahmedabad,Furniture,Table,4,3265.01,5000,0.0,20000,6939.97,Debit Card,Returning,2,2023
+1389,2023-03-17,C010,Pooja Desai,Surat,Electronics,Laptop,2,26851.47,35000,0.1,70000,9297.05,Credit Card,New,3,2023
+1390,2023-05-14,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,5,426.85,700,0.1,3500,1015.73,Debit Card,New,5,2023
+1391,2023-02-18,C007,Arjun Nair,Kolkata,Clothing,Jeans,5,1124.42,1500,0.05,7500,1502.88,Cash on Delivery,New,2,2023
+1392,2023-03-08,C003,Rahul Verma,Delhi,Electronics,Mobile,1,7348.01,12000,0.05,12000,4051.99,Debit Card,Returning,3,2023
+1393,2023-01-12,C006,Sneha Kapoor,Chennai,Electronics,Mobile,5,8606.69,12000,0.0,60000,16966.57,Credit Card,New,1,2023
+1394,2023-03-04,C008,Kavya Iyer,Ahmedabad,Electronics,Headphones,1,1171.52,1500,0.1,1500,178.48,Credit Card,Returning,3,2023
+1395,2023-09-12,C001,Amit Sharma,Mumbai,Electronics,Headphones,5,1029.95,1500,0.15,7500,1225.27,Credit Card,Returning,9,2023
+1396,2023-05-21,C007,Arjun Nair,Kolkata,Electronics,Headphones,3,964.41,1500,0.05,4500,1381.76,UPI,Returning,5,2023
+1397,2023-11-28,C003,Rahul Verma,Delhi,Electronics,Laptop,5,25334.24,35000,0.05,175000,39578.82,UPI,Returning,11,2023
+1398,2023-07-16,C007,Arjun Nair,Kolkata,Clothing,Jacket,4,1836.59,3000,0.1,12000,3453.65,Debit Card,Returning,7,2023
+1399,2023-07-15,C004,Neha Patel,Bangalore,Clothing,Jacket,2,2178.45,3000,0.0,6000,1643.09,UPI,Returning,7,2023
+1400,2023-07-18,C009,Vikram Joshi,Jaipur,Clothing,Jeans,3,1173.8,1500,0.1,4500,528.59,UPI,New,7,2023
+1401,2023-01-30,C001,Amit Sharma,Mumbai,Furniture,Sofa,5,9657.06,15000,0.1,75000,19214.7,Cash on Delivery,Returning,1,2023
+1402,2023-05-17,C010,Pooja Desai,Surat,Furniture,Chair,2,1240.05,2000,0.05,4000,1319.89,Credit Card,New,5,2023
+1403,2023-04-01,C010,Pooja Desai,Surat,Clothing,T-Shirt,3,550.93,700,0.05,2100,342.21,Debit Card,Returning,4,2023
+1404,2023-10-16,C006,Sneha Kapoor,Chennai,Electronics,Laptop,3,27632.91,35000,0.05,105000,16851.27,Debit Card,Returning,10,2023
+1405,2023-01-29,C009,Vikram Joshi,Jaipur,Furniture,Table,2,3490.44,5000,0.0,10000,3019.13,Debit Card,New,1,2023
+1406,2023-03-08,C001,Amit Sharma,Mumbai,Clothing,Jacket,4,1800.41,3000,0.05,12000,4198.36,UPI,New,3,2023
+1407,2023-02-26,C006,Sneha Kapoor,Chennai,Electronics,Laptop,1,22033.98,35000,0.05,35000,11216.02,UPI,New,2,2023
+1408,2023-06-15,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,5,434.14,700,0.1,3500,979.28,Debit Card,New,6,2023
+1409,2023-04-25,C007,Arjun Nair,Kolkata,Clothing,Jeans,3,952.26,1500,0.1,4500,1193.22,Debit Card,Returning,4,2023
+1410,2023-12-26,C005,Rohit Mehta,Hyderabad,Furniture,Table,2,3177.71,5000,0.0,10000,3644.58,Cash on Delivery,New,12,2023
+1411,2023-09-12,C003,Rahul Verma,Delhi,Furniture,Sofa,5,9662.69,15000,0.0,75000,26686.57,Debit Card,Returning,9,2023
+1412,2023-11-22,C002,Priya Singh,Pune,Furniture,Chair,3,1592.95,2000,0.05,6000,921.14,Credit Card,Returning,11,2023
+1413,2023-06-29,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,3,22467.79,35000,0.0,105000,37596.63,UPI,New,6,2023
+1414,2023-03-27,C001,Amit Sharma,Mumbai,Electronics,Laptop,4,24067.54,35000,0.15,140000,22729.84,Cash on Delivery,Returning,3,2023
+1415,2023-10-23,C007,Arjun Nair,Kolkata,Furniture,Sofa,5,10126.04,15000,0.15,75000,13119.79,Debit Card,New,10,2023
+1416,2023-05-14,C008,Kavya Iyer,Ahmedabad,Electronics,Mobile,1,7907.78,12000,0.1,12000,2892.22,Credit Card,New,5,2023
+1417,2023-10-08,C006,Sneha Kapoor,Chennai,Electronics,Headphones,4,948.27,1500,0.0,6000,2206.91,Credit Card,Returning,10,2023
+1418,2023-11-07,C010,Pooja Desai,Surat,Clothing,Jeans,1,1029.4,1500,0.05,1500,395.6,Cash on Delivery,New,11,2023
+1419,2023-07-29,C001,Amit Sharma,Mumbai,Electronics,Mobile,3,7693.32,12000,0.05,36000,11120.04,UPI,Returning,7,2023
+1420,2023-03-20,C005,Rohit Mehta,Hyderabad,Furniture,Chair,1,1219.85,2000,0.15,2000,480.15,Credit Card,Returning,3,2023
+1421,2023-04-13,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,1,461.24,700,0.15,700,133.76,Credit Card,New,4,2023
+1422,2023-03-01,C004,Neha Patel,Bangalore,Electronics,Headphones,3,1193.12,1500,0.15,4500,245.65,UPI,Returning,3,2023
+1423,2023-04-05,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,3,927.34,1500,0.15,4500,1042.98,UPI,Returning,4,2023
+1424,2023-08-27,C006,Sneha Kapoor,Chennai,Electronics,Headphones,4,913.39,1500,0.15,6000,1446.46,UPI,New,8,2023
+1425,2023-02-13,C005,Rohit Mehta,Hyderabad,Electronics,Laptop,2,26265.65,35000,0.0,70000,17468.71,UPI,Returning,2,2023
+1426,2023-09-25,C010,Pooja Desai,Surat,Furniture,Chair,5,1224.39,2000,0.15,10000,2378.03,Cash on Delivery,Returning,9,2023
+1427,2024-01-01,C010,Pooja Desai,Surat,Furniture,Chair,4,1319.54,2000,0.15,8000,1521.84,Credit Card,New,1,2024
+1428,2023-04-19,C002,Priya Singh,Pune,Clothing,Jeans,2,1184.72,1500,0.05,3000,480.56,Debit Card,New,4,2023
+1429,2023-04-14,C001,Amit Sharma,Mumbai,Clothing,T-Shirt,1,558.36,700,0.15,700,36.64,Debit Card,Returning,4,2023
+1430,2023-10-10,C006,Sneha Kapoor,Chennai,Electronics,Mobile,1,8131.44,12000,0.15,12000,2068.56,UPI,Returning,10,2023
+1431,2023-02-27,C009,Vikram Joshi,Jaipur,Clothing,Jeans,1,1135.97,1500,0.15,1500,139.03,Cash on Delivery,New,2,2023
+1432,2023-05-27,C003,Rahul Verma,Delhi,Electronics,Mobile,1,8550.44,12000,0.0,12000,3449.56,UPI,Returning,5,2023
+1433,2023-01-20,C005,Rohit Mehta,Hyderabad,Clothing,T-Shirt,4,500.08,700,0.15,2800,379.67,Debit Card,Returning,1,2023
+1434,2023-01-20,C007,Arjun Nair,Kolkata,Electronics,Headphones,5,1082.6,1500,0.15,7500,962.02,Cash on Delivery,Returning,1,2023
+1435,2023-01-11,C004,Neha Patel,Bangalore,Electronics,Laptop,4,27445.84,35000,0.1,140000,16216.62,UPI,Returning,1,2023
+1436,2023-04-27,C005,Rohit Mehta,Hyderabad,Furniture,Table,4,3858.23,5000,0.0,20000,4567.06,Debit Card,Returning,4,2023
+1437,2023-04-07,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,3,11186.4,15000,0.0,45000,11440.81,Cash on Delivery,New,4,2023
+1438,2023-09-21,C007,Arjun Nair,Kolkata,Clothing,Jeans,5,1160.16,1500,0.0,7500,1699.22,Debit Card,New,9,2023
+1439,2023-03-30,C005,Rohit Mehta,Hyderabad,Clothing,Jacket,4,1881.39,3000,0.0,12000,4474.44,Debit Card,New,3,2023
+1440,2023-12-27,C001,Amit Sharma,Mumbai,Furniture,Chair,1,1382.58,2000,0.1,2000,417.42,Debit Card,Returning,12,2023
+1441,2023-12-15,C006,Sneha Kapoor,Chennai,Clothing,Jeans,5,1019.08,1500,0.0,7500,2404.59,Credit Card,New,12,2023
+1442,2023-10-28,C006,Sneha Kapoor,Chennai,Clothing,Jeans,5,1033.83,1500,0.15,7500,1205.84,UPI,Returning,10,2023
+1443,2023-01-26,C003,Rahul Verma,Delhi,Furniture,Table,1,3285.07,5000,0.15,5000,964.93,Debit Card,New,1,2023
+1444,2023-09-20,C004,Neha Patel,Bangalore,Furniture,Chair,2,1307.63,2000,0.15,4000,784.73,Credit Card,New,9,2023
+1445,2023-04-25,C008,Kavya Iyer,Ahmedabad,Electronics,Headphones,2,1080.34,1500,0.0,3000,839.31,UPI,Returning,4,2023
+1446,2023-05-10,C005,Rohit Mehta,Hyderabad,Clothing,T-Shirt,4,539.22,700,0.15,2800,223.11,Debit Card,Returning,5,2023
+1447,2023-01-04,C005,Rohit Mehta,Hyderabad,Clothing,Jacket,5,2038.29,3000,0.0,15000,4808.54,UPI,Returning,1,2023
+1448,2023-11-24,C005,Rohit Mehta,Hyderabad,Electronics,Mobile,4,7353.21,12000,0.1,48000,13787.16,UPI,Returning,11,2023
+1449,2023-01-30,C005,Rohit Mehta,Hyderabad,Furniture,Table,2,3149.93,5000,0.05,10000,3200.14,Cash on Delivery,Returning,1,2023
+1450,2023-08-03,C003,Rahul Verma,Delhi,Electronics,Laptop,4,27982.28,35000,0.1,140000,14070.87,Cash on Delivery,Returning,8,2023
+1451,2023-12-18,C001,Amit Sharma,Mumbai,Furniture,Chair,3,1490.62,2000,0.05,6000,1228.14,Cash on Delivery,Returning,12,2023
+1452,2023-05-31,C009,Vikram Joshi,Jaipur,Furniture,Table,2,3840.64,5000,0.05,10000,1818.72,Credit Card,Returning,5,2023
+1453,2023-12-15,C003,Rahul Verma,Delhi,Furniture,Table,5,3762.92,5000,0.05,25000,4935.41,UPI,New,12,2023
+1454,2023-08-04,C004,Neha Patel,Bangalore,Furniture,Sofa,2,11232.63,15000,0.1,30000,4534.74,UPI,Returning,8,2023
+1455,2023-01-28,C005,Rohit Mehta,Hyderabad,Furniture,Table,4,3851.21,5000,0.15,20000,1595.14,Credit Card,Returning,1,2023
+1456,2023-09-29,C004,Neha Patel,Bangalore,Clothing,Jacket,1,2320.5,3000,0.15,3000,229.5,UPI,Returning,9,2023
+1457,2023-07-29,C001,Amit Sharma,Mumbai,Electronics,Headphones,2,1197.7,1500,0.1,3000,304.59,Cash on Delivery,New,7,2023
+1458,2023-06-10,C006,Sneha Kapoor,Chennai,Electronics,Headphones,1,1046.27,1500,0.05,1500,378.73,Credit Card,New,6,2023
+1459,2023-10-23,C008,Kavya Iyer,Ahmedabad,Furniture,Table,2,3761.19,5000,0.05,10000,1977.61,Debit Card,Returning,10,2023
+1460,2023-07-26,C002,Priya Singh,Pune,Electronics,Headphones,5,1030.11,1500,0.15,7500,1224.43,Cash on Delivery,Returning,7,2023
+1461,2023-01-08,C007,Arjun Nair,Kolkata,Electronics,Laptop,1,24736.48,35000,0.1,35000,6763.52,UPI,New,1,2023
+1462,2023-06-09,C001,Amit Sharma,Mumbai,Electronics,Laptop,2,22583.86,35000,0.1,70000,17832.28,Debit Card,New,6,2023
+1463,2023-01-24,C007,Arjun Nair,Kolkata,Clothing,Jacket,5,1983.67,3000,0.0,15000,5081.65,UPI,Returning,1,2023
+1464,2023-12-18,C008,Kavya Iyer,Ahmedabad,Clothing,Jacket,5,2114.47,3000,0.15,15000,2177.65,Debit Card,Returning,12,2023
+1465,2023-01-10,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,2,9494.65,15000,0.15,30000,6510.7,Debit Card,New,1,2023
+1466,2023-03-05,C003,Rahul Verma,Delhi,Furniture,Chair,1,1435.88,2000,0.05,2000,464.12,UPI,New,3,2023
+1467,2023-12-05,C007,Arjun Nair,Kolkata,Furniture,Table,5,3623.13,5000,0.0,25000,6884.33,Credit Card,New,12,2023
+1468,2023-10-08,C001,Amit Sharma,Mumbai,Electronics,Mobile,4,8266.35,12000,0.0,48000,14934.58,UPI,Returning,10,2023
+1469,2023-12-06,C003,Rahul Verma,Delhi,Furniture,Chair,1,1320.45,2000,0.0,2000,679.55,UPI,New,12,2023
+1470,2023-05-25,C007,Arjun Nair,Kolkata,Electronics,Mobile,5,8925.04,12000,0.0,60000,15374.81,Credit Card,New,5,2023
+1471,2023-09-25,C008,Kavya Iyer,Ahmedabad,Furniture,Chair,5,1279.9,2000,0.1,10000,2600.5,Debit Card,Returning,9,2023
+1472,2023-04-17,C007,Arjun Nair,Kolkata,Furniture,Table,2,3039.41,5000,0.15,10000,2421.19,Cash on Delivery,Returning,4,2023
+1473,2023-10-21,C004,Neha Patel,Bangalore,Electronics,Laptop,1,25701.43,35000,0.0,35000,9298.57,Cash on Delivery,New,10,2023
+1474,2023-05-12,C002,Priya Singh,Pune,Clothing,Jacket,1,2234.14,3000,0.0,3000,765.86,Debit Card,Returning,5,2023
+1475,2023-01-21,C005,Rohit Mehta,Hyderabad,Furniture,Table,4,3050.08,5000,0.05,20000,6799.68,UPI,Returning,1,2023
+1476,2023-01-05,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,1,433.3,700,0.0,700,266.7,Debit Card,New,1,2023
+1477,2023-02-17,C006,Sneha Kapoor,Chennai,Furniture,Sofa,4,11865.27,15000,0.1,60000,6538.93,UPI,Returning,2,2023
+1478,2023-05-20,C003,Rahul Verma,Delhi,Electronics,Mobile,4,8160.6,12000,0.15,48000,8157.6,Cash on Delivery,Returning,5,2023
+1479,2023-03-23,C007,Arjun Nair,Kolkata,Electronics,Headphones,1,939.75,1500,0.0,1500,560.25,Credit Card,Returning,3,2023
+1480,2023-11-09,C010,Pooja Desai,Surat,Clothing,Jeans,5,1103.52,1500,0.05,7500,1607.41,Cash on Delivery,Returning,11,2023
+1481,2023-02-27,C010,Pooja Desai,Surat,Electronics,Laptop,2,24381.56,35000,0.15,70000,10736.88,Cash on Delivery,Returning,2,2023
+1482,2023-12-27,C001,Amit Sharma,Mumbai,Electronics,Mobile,3,8771.94,12000,0.0,36000,9684.19,Debit Card,Returning,12,2023
+1483,2023-09-04,C009,Vikram Joshi,Jaipur,Clothing,Jacket,5,1857.15,3000,0.05,15000,4964.27,UPI,Returning,9,2023
+1484,2023-09-16,C003,Rahul Verma,Delhi,Clothing,Jacket,5,1832.74,3000,0.05,15000,5086.3,Cash on Delivery,Returning,9,2023
+1485,2023-05-23,C003,Rahul Verma,Delhi,Electronics,Mobile,4,7969.52,12000,0.1,48000,11321.92,Credit Card,New,5,2023
+1486,2023-08-24,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,4,534.39,700,0.0,2800,662.42,Cash on Delivery,Returning,8,2023
+1487,2023-12-01,C002,Priya Singh,Pune,Clothing,Jeans,4,994.82,1500,0.15,6000,1120.73,Credit Card,New,12,2023
+1488,2023-02-16,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,1,498.0,700,0.0,700,202.0,UPI,New,2,2023
+1489,2023-08-21,C008,Kavya Iyer,Ahmedabad,Furniture,Sofa,3,11475.93,15000,0.05,45000,8322.2,UPI,Returning,8,2023
+1490,2023-01-02,C006,Sneha Kapoor,Chennai,Clothing,Jeans,1,929.23,1500,0.05,1500,495.77,UPI,Returning,1,2023
+1491,2023-01-24,C005,Rohit Mehta,Hyderabad,Clothing,Jacket,5,2024.33,3000,0.0,15000,4878.33,Debit Card,Returning,1,2023
+1492,2023-04-07,C003,Rahul Verma,Delhi,Clothing,T-Shirt,1,455.6,700,0.05,700,209.4,Credit Card,Returning,4,2023
+1493,2023-08-01,C004,Neha Patel,Bangalore,Clothing,Jeans,2,1115.04,1500,0.0,3000,769.93,Credit Card,New,8,2023
+1494,2023-09-13,C008,Kavya Iyer,Ahmedabad,Clothing,Jeans,5,1186.86,1500,0.05,7500,1190.71,Credit Card,New,9,2023
+1495,2023-12-21,C009,Vikram Joshi,Jaipur,Clothing,T-Shirt,5,487.61,700,0.05,3500,886.95,Debit Card,New,12,2023
+1496,2023-09-16,C002,Priya Singh,Pune,Clothing,T-Shirt,5,504.86,700,0.1,3500,625.69,Cash on Delivery,Returning,9,2023
+1497,2023-05-31,C010,Pooja Desai,Surat,Furniture,Chair,3,1359.15,2000,0.1,6000,1322.56,Cash on Delivery,New,5,2023
+1498,2023-12-26,C003,Rahul Verma,Delhi,Clothing,T-Shirt,5,518.0,700,0.1,3500,559.99,UPI,New,12,2023
+1499,2023-12-11,C004,Neha Patel,Bangalore,Furniture,Chair,5,1485.75,2000,0.1,10000,1571.23,Debit Card,New,12,2023
+1500,2023-10-15,C009,Vikram Joshi,Jaipur,Clothing,Jacket,3,2226.21,3000,0.1,9000,1421.37,Cash on Delivery,Returning,10,2023
+1501,2023-01-13,C009,Vikram Joshi,Jaipur,Furniture,Table,4,3808.3,5000,0.0,20000,4766.78,Cash on Delivery,New,1,2023
+1502,2023-05-27,C001,Amit Sharma,Mumbai,Electronics,Laptop,2,22868.85,35000,0.05,70000,20762.3,UPI,New,5,2023
+1503,2023-07-03,C001,Amit Sharma,Mumbai,Furniture,Table,2,3753.59,5000,0.0,10000,2492.81,Cash on Delivery,New,7,2023
+1504,2023-05-02,C010,Pooja Desai,Surat,Clothing,Jacket,2,2245.45,3000,0.15,6000,609.1,UPI,New,5,2023
+1505,2023-10-10,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,4,553.94,700,0.1,2800,304.25,Credit Card,New,10,2023
+1506,2023-04-26,C005,Rohit Mehta,Hyderabad,Furniture,Chair,5,1547.54,2000,0.15,10000,762.3,UPI,New,4,2023
+1507,2023-04-06,C004,Neha Patel,Bangalore,Furniture,Table,4,3177.43,5000,0.0,20000,7290.3,Debit Card,New,4,2023
+1508,2023-03-08,C007,Arjun Nair,Kolkata,Electronics,Laptop,4,22953.79,35000,0.1,140000,34184.86,Debit Card,Returning,3,2023
+1509,2023-01-21,C001,Amit Sharma,Mumbai,Furniture,Sofa,4,11129.07,15000,0.05,60000,12483.73,Debit Card,Returning,1,2023
+1510,2023-09-09,C010,Pooja Desai,Surat,Electronics,Laptop,5,26901.98,35000,0.1,175000,22990.1,UPI,New,9,2023
+1511,2023-09-16,C006,Sneha Kapoor,Chennai,Clothing,Jacket,2,2374.19,3000,0.0,6000,1251.61,Debit Card,Returning,9,2023
+1512,2023-04-20,C009,Vikram Joshi,Jaipur,Clothing,Jacket,4,1855.17,3000,0.05,12000,3979.33,UPI,Returning,4,2023
+1513,2023-10-15,C006,Sneha Kapoor,Chennai,Furniture,Table,2,3950.31,5000,0.15,10000,599.38,Credit Card,New,10,2023
+1514,2023-01-21,C006,Sneha Kapoor,Chennai,Clothing,Jeans,2,1171.35,1500,0.05,3000,507.3,UPI,Returning,1,2023
+1515,2023-01-13,C002,Priya Singh,Pune,Clothing,T-Shirt,3,495.63,700,0.1,2100,403.1,UPI,Returning,1,2023
+1516,2023-06-14,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,3,27287.97,35000,0.05,105000,17886.09,Credit Card,New,6,2023
+1517,2023-04-18,C003,Rahul Verma,Delhi,Clothing,Jacket,5,1804.4,3000,0.0,15000,5978.01,Debit Card,Returning,4,2023
+1518,2023-11-28,C002,Priya Singh,Pune,Furniture,Chair,5,1531.5,2000,0.15,10000,842.5,Credit Card,New,11,2023
+1519,2023-01-28,C001,Amit Sharma,Mumbai,Clothing,Jeans,3,911.37,1500,0.0,4500,1765.9,Debit Card,Returning,1,2023
+1520,2023-07-28,C009,Vikram Joshi,Jaipur,Electronics,Mobile,5,9171.89,12000,0.1,60000,8140.57,Cash on Delivery,Returning,7,2023
+1521,2023-10-01,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,3,422.36,700,0.0,2100,832.91,Credit Card,New,10,2023
+1522,2023-05-29,C010,Pooja Desai,Surat,Electronics,Laptop,1,23503.9,35000,0.0,35000,11496.1,UPI,New,5,2023
+1523,2023-08-31,C005,Rohit Mehta,Hyderabad,Clothing,Jeans,4,1018.53,1500,0.0,6000,1925.86,Debit Card,New,8,2023
+1524,2023-06-02,C003,Rahul Verma,Delhi,Clothing,T-Shirt,5,461.3,700,0.05,3500,1018.52,UPI,New,6,2023
+1525,2023-10-21,C009,Vikram Joshi,Jaipur,Clothing,Jacket,2,1873.94,3000,0.0,6000,2252.12,Cash on Delivery,New,10,2023
+1526,2023-03-24,C005,Rohit Mehta,Hyderabad,Furniture,Chair,3,1284.69,2000,0.05,6000,1845.92,Debit Card,New,3,2023
+1527,2023-10-09,C010,Pooja Desai,Surat,Furniture,Table,2,3114.62,5000,0.0,10000,3770.75,Cash on Delivery,New,10,2023
+1528,2023-06-19,C005,Rohit Mehta,Hyderabad,Electronics,Mobile,3,7435.69,12000,0.15,36000,8292.94,UPI,New,6,2023
+1529,2023-06-12,C004,Neha Patel,Bangalore,Electronics,Mobile,3,8686.84,12000,0.05,36000,8139.49,Cash on Delivery,Returning,6,2023
+1530,2023-06-11,C006,Sneha Kapoor,Chennai,Furniture,Table,5,3152.39,5000,0.1,25000,6738.03,Cash on Delivery,New,6,2023
+1531,2023-05-22,C001,Amit Sharma,Mumbai,Furniture,Sofa,2,11356.98,15000,0.15,30000,2786.04,UPI,New,5,2023
+1532,2023-09-07,C006,Sneha Kapoor,Chennai,Clothing,Jeans,4,1033.61,1500,0.1,6000,1265.57,Credit Card,New,9,2023
+1533,2023-10-03,C010,Pooja Desai,Surat,Electronics,Mobile,3,9260.91,12000,0.05,36000,6417.26,Debit Card,Returning,10,2023
+1534,2023-10-25,C002,Priya Singh,Pune,Electronics,Mobile,1,9239.01,12000,0.0,12000,2760.99,Cash on Delivery,New,10,2023
+1535,2023-12-01,C001,Amit Sharma,Mumbai,Clothing,Jacket,3,2126.08,3000,0.15,9000,1271.76,Debit Card,Returning,12,2023
+1536,2023-03-10,C007,Arjun Nair,Kolkata,Furniture,Chair,5,1493.29,2000,0.1,10000,1533.55,Cash on Delivery,New,3,2023
+1537,2023-11-11,C007,Arjun Nair,Kolkata,Furniture,Sofa,5,9031.78,15000,0.05,75000,26091.12,Debit Card,New,11,2023
+1538,2023-09-05,C008,Kavya Iyer,Ahmedabad,Electronics,Headphones,2,1069.91,1500,0.05,3000,710.19,UPI,New,9,2023
+1539,2023-04-30,C004,Neha Patel,Bangalore,Clothing,Jeans,2,918.86,1500,0.1,3000,862.28,Credit Card,New,4,2023
+1540,2023-01-24,C009,Vikram Joshi,Jaipur,Furniture,Sofa,4,10409.02,15000,0.15,60000,9363.91,Credit Card,Returning,1,2023
+1541,2023-10-24,C002,Priya Singh,Pune,Clothing,Jacket,3,2300.92,3000,0.1,9000,1197.23,Debit Card,Returning,10,2023
+1542,2023-09-22,C007,Arjun Nair,Kolkata,Furniture,Sofa,5,10960.01,15000,0.0,75000,20199.95,UPI,Returning,9,2023
+1543,2023-09-07,C004,Neha Patel,Bangalore,Clothing,Jacket,4,2011.74,3000,0.1,12000,2753.04,Cash on Delivery,New,9,2023
+1544,2023-09-21,C009,Vikram Joshi,Jaipur,Electronics,Headphones,4,949.68,1500,0.0,6000,2201.27,UPI,New,9,2023
+1545,2023-12-05,C003,Rahul Verma,Delhi,Electronics,Headphones,2,1008.67,1500,0.0,3000,982.67,Debit Card,Returning,12,2023
+1546,2023-04-18,C006,Sneha Kapoor,Chennai,Electronics,Mobile,4,8820.55,12000,0.15,48000,5517.8,Debit Card,Returning,4,2023
+1547,2023-03-10,C001,Amit Sharma,Mumbai,Furniture,Chair,1,1251.15,2000,0.05,2000,648.85,Credit Card,New,3,2023
+1548,2023-11-03,C001,Amit Sharma,Mumbai,Electronics,Headphones,3,1176.73,1500,0.15,4500,294.8,Credit Card,Returning,11,2023
+1549,2023-09-04,C002,Priya Singh,Pune,Furniture,Chair,4,1442.61,2000,0.15,8000,1029.56,Debit Card,New,9,2023
+1550,2023-11-16,C007,Arjun Nair,Kolkata,Electronics,Headphones,5,1146.14,1500,0.05,7500,1394.32,UPI,New,11,2023
+1551,2023-07-13,C006,Sneha Kapoor,Chennai,Clothing,Jeans,5,1077.18,1500,0.05,7500,1739.11,Cash on Delivery,New,7,2023
+1552,2023-03-18,C002,Priya Singh,Pune,Electronics,Laptop,2,24658.98,35000,0.15,70000,10182.04,Credit Card,New,3,2023
+1553,2023-02-17,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,5,24523.3,35000,0.0,175000,52383.48,Cash on Delivery,New,2,2023
+1554,2023-09-25,C010,Pooja Desai,Surat,Clothing,Jacket,1,2338.18,3000,0.15,3000,211.82,Cash on Delivery,Returning,9,2023
+1555,2023-07-15,C001,Amit Sharma,Mumbai,Clothing,Jacket,4,1937.69,3000,0.15,12000,2449.23,UPI,New,7,2023
+1556,2023-02-12,C007,Arjun Nair,Kolkata,Electronics,Headphones,3,1043.14,1500,0.05,4500,1145.57,UPI,Returning,2,2023
+1557,2023-10-23,C005,Rohit Mehta,Hyderabad,Furniture,Chair,1,1483.66,2000,0.0,2000,516.34,Credit Card,New,10,2023
+1558,2023-03-21,C007,Arjun Nair,Kolkata,Furniture,Chair,3,1363.54,2000,0.0,6000,1909.39,Cash on Delivery,Returning,3,2023
+1559,2023-12-15,C005,Rohit Mehta,Hyderabad,Clothing,Jacket,4,2138.8,3000,0.1,12000,2244.79,Cash on Delivery,New,12,2023
+1560,2023-10-14,C007,Arjun Nair,Kolkata,Clothing,Jacket,5,2089.48,3000,0.1,15000,3052.6,Cash on Delivery,Returning,10,2023
+1561,2023-04-28,C005,Rohit Mehta,Hyderabad,Furniture,Sofa,4,11207.35,15000,0.0,60000,15170.61,Cash on Delivery,New,4,2023
+1562,2023-10-09,C002,Priya Singh,Pune,Furniture,Chair,5,1360.22,2000,0.1,10000,2198.88,Credit Card,New,10,2023
+1563,2023-11-04,C007,Arjun Nair,Kolkata,Electronics,Laptop,1,26762.79,35000,0.15,35000,2987.21,Cash on Delivery,New,11,2023
+1564,2023-07-16,C002,Priya Singh,Pune,Furniture,Table,2,3370.84,5000,0.0,10000,3258.33,Cash on Delivery,Returning,7,2023
+1565,2023-01-06,C010,Pooja Desai,Surat,Electronics,Laptop,2,25482.04,35000,0.15,70000,8535.92,Debit Card,Returning,1,2023
+1566,2023-11-11,C004,Neha Patel,Bangalore,Electronics,Laptop,5,24573.83,35000,0.05,175000,43380.83,Debit Card,New,11,2023
+1567,2023-05-22,C006,Sneha Kapoor,Chennai,Furniture,Chair,1,1590.26,2000,0.0,2000,409.74,Cash on Delivery,Returning,5,2023
+1568,2023-12-27,C007,Arjun Nair,Kolkata,Clothing,T-Shirt,5,448.04,700,0.0,3500,1259.78,Credit Card,New,12,2023
+1569,2023-06-27,C009,Vikram Joshi,Jaipur,Furniture,Table,5,3915.01,5000,0.1,25000,2924.96,UPI,New,6,2023
+1570,2023-05-14,C010,Pooja Desai,Surat,Furniture,Chair,4,1571.89,2000,0.0,8000,1712.46,Debit Card,Returning,5,2023
+1571,2023-06-24,C009,Vikram Joshi,Jaipur,Electronics,Mobile,5,7373.73,12000,0.1,60000,17131.37,Credit Card,Returning,6,2023
+1572,2023-05-05,C009,Vikram Joshi,Jaipur,Furniture,Table,4,3966.06,5000,0.15,20000,1135.78,UPI,Returning,5,2023
+1573,2023-07-15,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,4,21813.88,35000,0.0,140000,52744.49,Debit Card,New,7,2023
+1574,2023-12-25,C006,Sneha Kapoor,Chennai,Clothing,T-Shirt,3,492.31,700,0.0,2100,623.07,UPI,New,12,2023
+1575,2023-02-08,C005,Rohit Mehta,Hyderabad,Electronics,Mobile,4,8816.88,12000,0.1,48000,7932.5,Debit Card,Returning,2,2023
+1576,2023-04-04,C006,Sneha Kapoor,Chennai,Furniture,Sofa,2,11682.95,15000,0.1,30000,3634.1,Debit Card,Returning,4,2023
+1577,2023-04-28,C004,Neha Patel,Bangalore,Furniture,Chair,2,1549.1,2000,0.05,4000,701.81,Debit Card,New,4,2023
+1578,2023-02-10,C010,Pooja Desai,Surat,Furniture,Sofa,2,11336.82,15000,0.0,30000,7326.37,Cash on Delivery,New,2,2023
+1579,2023-09-10,C009,Vikram Joshi,Jaipur,Electronics,Laptop,4,23598.38,35000,0.1,140000,31606.5,UPI,Returning,9,2023
+1580,2023-01-28,C003,Rahul Verma,Delhi,Clothing,Jacket,3,2038.73,3000,0.05,9000,2433.82,Cash on Delivery,Returning,1,2023
+1581,2023-08-23,C009,Vikram Joshi,Jaipur,Electronics,Laptop,5,23431.02,35000,0.05,175000,49094.89,Credit Card,Returning,8,2023
+1582,2023-10-25,C006,Sneha Kapoor,Chennai,Electronics,Laptop,1,25718.72,35000,0.15,35000,4031.28,Credit Card,Returning,10,2023
+1583,2023-05-18,C006,Sneha Kapoor,Chennai,Furniture,Table,2,3548.56,5000,0.05,10000,2402.87,Cash on Delivery,Returning,5,2023
+1584,2023-12-25,C006,Sneha Kapoor,Chennai,Electronics,Headphones,4,1027.18,1500,0.15,6000,991.27,UPI,Returning,12,2023
+1585,2023-10-22,C007,Arjun Nair,Kolkata,Furniture,Table,4,3179.89,5000,0.05,20000,6280.44,Debit Card,New,10,2023
+1586,2023-04-11,C005,Rohit Mehta,Hyderabad,Furniture,Chair,5,1372.89,2000,0.15,10000,1635.56,Debit Card,New,4,2023
+1587,2023-11-19,C008,Kavya Iyer,Ahmedabad,Electronics,Laptop,2,23950.64,35000,0.05,70000,18598.71,UPI,Returning,11,2023
+1588,2023-07-23,C005,Rohit Mehta,Hyderabad,Furniture,Table,5,3858.5,5000,0.0,25000,5707.49,Credit Card,New,7,2023
+1589,2023-08-19,C001,Amit Sharma,Mumbai,Furniture,Chair,3,1390.62,2000,0.0,6000,1828.15,UPI,Returning,8,2023
+1590,2023-06-26,C006,Sneha Kapoor,Chennai,Furniture,Sofa,5,10672.47,15000,0.1,75000,14137.63,Credit Card,Returning,6,2023
+1591,2023-05-26,C002,Priya Singh,Pune,Furniture,Sofa,5,9596.87,15000,0.05,75000,23265.63,UPI,Returning,5,2023
+1592,2023-11-11,C009,Vikram Joshi,Jaipur,Clothing,Jeans,4,1166.89,1500,0.15,6000,432.44,UPI,Returning,11,2023
+1593,2023-02-06,C003,Rahul Verma,Delhi,Electronics,Headphones,3,1026.54,1500,0.15,4500,745.37,Credit Card,New,2,2023
+1594,2023-12-30,C006,Sneha Kapoor,Chennai,Furniture,Chair,3,1326.75,2000,0.1,6000,1419.75,UPI,Returning,12,2023
+1595,2023-07-31,C005,Rohit Mehta,Hyderabad,Clothing,Jeans,3,1124.37,1500,0.15,4500,451.89,Debit Card,New,7,2023
+1596,2023-04-18,C001,Amit Sharma,Mumbai,Electronics,Headphones,2,1098.61,1500,0.0,3000,802.79,Debit Card,Returning,4,2023
+1597,2023-10-08,C002,Priya Singh,Pune,Electronics,Mobile,1,9448.3,12000,0.15,12000,751.7,Credit Card,New,10,2023
+1598,2023-02-13,C007,Arjun Nair,Kolkata,Clothing,Jacket,1,1862.36,3000,0.05,3000,987.64,Cash on Delivery,Returning,2,2023
+1599,2023-03-09,C004,Neha Patel,Bangalore,Furniture,Chair,3,1377.26,2000,0.05,6000,1568.21,Debit Card,New,3,2023
+1600,2023-10-04,C001,Amit Sharma,Mumbai,Furniture,Sofa,3,11592.72,15000,0.15,45000,3471.83,UPI,Returning,10,2023
