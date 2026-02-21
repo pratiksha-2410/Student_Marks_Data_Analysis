@@ -1,13 +1,13 @@
-Project Overview
+# Project Overview
 
-This project analyzes student academic performance using Python.
-The objective is to clean, process, and analyze student marks data to extract meaningful insights and visualize performance trends.
+**This project analyzes student academic performance using Python.**
+**The objective is to clean, process, and analyze student marks data to extract meaningful insights and visualize performance trends.**
 
-This project demonstrates core Data Analysis skills including data cleaning, aggregation, and visualization.
+**This project demonstrates core Data Analysis skills including data cleaning, aggregation, and visualization.**
 
 ⸻
 
-🎯 Objectives
+## Objectives
 	•	Calculate total and average marks
 	•	Analyze subject-wise performance
 	•	Identify top-performing students
@@ -15,7 +15,7 @@ This project demonstrates core Data Analysis skills including data cleaning, agg
 
 ⸻
 
-🛠 Tools & Technologies Used
+## Tools & Technologies Used
 	•	Python
 	•	Pandas
 	•	Matplotlib
@@ -24,7 +24,7 @@ This project demonstrates core Data Analysis skills including data cleaning, agg
 
 ⸻
 
-📂 Dataset Description
+## Dataset Description
 
 The dataset includes:
 	•	Student Name / ID
@@ -34,19 +34,19 @@ The dataset includes:
 
 ⸻
 
-🔎 Key Analysis Performed
+# Key Analysis Performed
 
-1️⃣ Data Cleaning
+## Data Cleaning
 	•	Checked for missing values
 	•	Corrected data types
 	•	Removed duplicates (if any)
 
-2️⃣ Feature Engineering
+## Feature Engineering
 	•	Calculated Total Marks
 	•	Calculated Percentage
 	•	Assigned Grades (if implemented)
 
-3️⃣ Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 	•	Subject-wise average comparison
 	•	Top 5 performing students
 	•	Distribution of marks
@@ -54,20 +54,13 @@ The dataset includes:
 
 ⸻
 
-📈 Sample Insights
+# Sample Insights
 	•	Identified highest scoring subject
 	•	Determined overall class average
 	•	Highlighted top performers
 	•	Compared subject performance visually
 
-    Project Status
-
-✔ Completed
-🔄 Open for future improvements (Advanced visualization, Dashboard, etc.)
-
-⸻
-
-💡 Future Improvements
+# Future Improvements
 	•	Add interactive dashboard (Power BI / Streamlit)
 	•	Add statistical analysis
 	•	Add machine learning model to predict performance
