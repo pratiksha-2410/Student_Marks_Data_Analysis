@@ -22,6 +22,12 @@
 	•	Seaborn
 	•	Jupyter Notebook
 
+	👩‍💻 Author
+	<br>
+Pratiksha Bagwale Zagade
+<br>
+Aspiring Data Scientist | Python | Data Analysis | Business Insights
+
 ⸻
 
 ## Dataset Description
@@ -64,3 +70,7 @@ The dataset includes:
 	•	Add interactive dashboard (Power BI / Streamlit)
 	•	Add statistical analysis
 	•	Add machine learning model to predict performance
+
+	👩‍💻 Author
+      Pratiksha Bagwale Zagade
+      Aspiring Data Scientist | Python | Data Analysis | Business Insights
